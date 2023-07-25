@@ -42,6 +42,8 @@
 
  - Network Basics for Hackers: How Networks Work and How They Break - https://www.amazon.com/Network-Basics-Hackers-Networks-Break/dp/B0BS3GZ1R9/ref=sr_1_1?crid=1LI7VKVDS6TQA&keywords=network+basics+for+hackers+occupytheweb+2023&qid=1687363423&sprefix=network+basics+for%2Caps%2C102&sr=8-1
 
+ - Windows Forensic Analysis DVD Toolkit 2nd Edition - https://www.amazon.com/Windows-Forensic-Analysis-DVD-Toolkit/dp/1597494224
 
+ - Perl Scripting for Windows Security: Live Response, Forensic Analysis, and Monitoring 1st Edition - https://www.amazon.com/Perl-Scripting-Windows-Security-Monitoring/dp/159749173X
 
 
