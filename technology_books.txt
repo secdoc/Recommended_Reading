@@ -46,4 +46,8 @@
 
  - Perl Scripting for Windows Security: Live Response, Forensic Analysis, and Monitoring 1st Edition - https://www.amazon.com/Perl-Scripting-Windows-Security-Monitoring/dp/159749173X
 
+ - Network Protocols for Security Professionals: Probe and identify network-based vulnerabilities and safeguard against network protocol breaches 1st Edition - https://www.amazon.com/Network-Protocols-Security-Professionals-vulnerabilities-ebook/dp/B09FKK2JPW/ref=sr_1_1?crid=R5342K2V4YJ0&keywords=Network+Protocols+for+Security+Professionals&qid=1690814154&sprefix=network+protocols+for+security+professionals+%2Caps%2C72&sr=8-1
+
+ - CompTIA Network+ N10-008 Certification Guide: The ultimate guide to passing the N10-008 exam, 2nd Edition - https://www.amazon.com/CompTIA-Network-N10-008-Certification-Guide/dp/180323606X/ref=sr_1_1?crid=3TMI2SUKO00XR&keywords=CompTIA+Network%2B+N10-008+Certification+Guide&qid=1690814288&sprefix=comptia+network%2B+n10-008+certification+guide+%2Caps%2C81&sr=8-1
+
 
