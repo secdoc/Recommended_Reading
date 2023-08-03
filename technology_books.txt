@@ -2,7 +2,32 @@
 ## over time as I go through my library. The books that do make this list are those that make good resources for the professional or those just getting started.
 ## Recommended Technology Books:
 
+
+Networking:
+
  - IP SUBNETTING FOR BEGINNERS: NOVICE TO PRO GUIDE TO UNDERSTANDING SUBNETTING WITH STEP BY STEP GUIDE AND DIAGRAMS - https://www.amazon.com/IP-SUBNETTING-BEGINNERS-UNDERSTANDING-DIAGRAMS/dp/1674590288/ref=sr_1_1?crid=4B36MCZ0KV9W&keywords=ip+subnetting+for+beginners&qid=1685649247&s=books&sprefix=ip+subnetting+for+beginners%2Cstripbooks%2C91&sr=1-1sim
+ 
+ - Network Basics for Hackers: How Networks Work and How They Break - https://www.amazon.com/Network-Basics-Hackers-Networks-Break/dp/B0BS3GZ1R9/ref=sr_1_1?crid=2ESK1L2SKCXZA&keywords=Network+Basics+for+Hackers&qid=1685648653&s=books&sprefix=network+basics+for+hackers%2Cstripbooks%2C95&sr=1-1
+
+ - Network Security Principles and Practices - https://www.amazon.com/Security-Principles-Practices-Professional-Development/dp/1587050250/ref=sr_1_6?crid=3CRERCN9XUYVZ&keywords=network+security+principles+and+practices&qid=1687358450&sprefix=network+security+principles+and+practices%2Caps%2C94&sr=8-6
+
+ - Network Protocols for Security Professionals: Probe and identify network-based vulnerabilities and safeguard against network protocol breaches 1st Edition - https://www.amazon.com/Network-Protocols-Security-Professionals-vulnerabilities-ebook/dp/B09FKK2JPW/ref=sr_1_1?crid=R5342K2V4YJ0&keywords=Network+Protocols+for+Security+Professionals&qid=1690814154&sprefix=network+protocols+for+security+professionals+%2Caps%2C72&sr=8-1
+
+ - CompTIA Network+ N10-008 Certification Guide: The ultimate guide to passing the N10-008 exam, 2nd Edition - https://www.amazon.com/CompTIA-Network-N10-008-Certification-Guide/dp/180323606X/ref=sr_1_1?crid=3TMI2SUKO00XR&keywords=CompTIA+Network%2B+N10-008+Certification+Guide&qid=1690814288&sprefix=comptia+network%2B+n10-008+certification+guide+%2Caps%2C81&sr=8-1
+
+
+Windows:
+
+ - Mastering Windows Server 2022: Comprehensive administration of your Windows Server environment, 4th Edition - https://www.amazon.com/Mastering-Windows-Server-2022-administration/dp/1837634505/ref=sr_1_15?crid=2QH1WANPVG023&keywords=packt+windows+server&qid=1685648773&s=books&sprefix=packt+windows+server%2Cstripbooks%2C90&sr=1-15
+
+ - Mastering Active Directory: Design, deploy, and protect Active Directory Domain Services for Windows Server 2022, 3rd Edition - https://www.amazon.com/Mastering-Active-Directory-protect-Services/dp/1801070393/ref=sr_1_27?crid=W859K4NEI7UQ&keywords=network+security+packt&qid=1685649033&s=books&sprefix=network+security+packt%2Cstripbooks%2C100&sr=1-27&ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc
+
+ - Mastering Windows Security and Hardening: Secure and protect your Windows environment from cyber threats using zero-trust security principles, 2nd Edition - https://www.amazon.com/Mastering-Windows-Security-Hardening-environment/dp/180323654X/ref=sr_1_1?crid=RWKRO36CLZ4C&keywords=mastering+windows+security+and+hardening&qid=1687358253&sprefix=mastering+windows%2Caps%2C98&sr=8-1
+ 
+ - Windows Forensic Analysis DVD Toolkit 2nd Edition - https://www.amazon.com/Windows-Forensic-Analysis-DVD-Toolkit/dp/1597494224
+
+
+Linux:
 
  - Linux Basics for Hackers: Getting Started with Networking, Scripting, and Security in Kali - https://www.amazon.com/Linux-Basics-Hackers-Networking-Scripting/dp/1593278551/ref=sr_1_1?crid=3F2F2W0Y9HCP2&keywords=linux+basics+for+hackers&qid=1669167211&sprefix=linux+%2Caps%2C96&sr=8-1
 
@@ -12,15 +37,8 @@
 
  - Mastering Ubuntu Server: Explore the versatile, powerful Linux Server distribution Ubuntu 22.04 with this comprehensive guide, 4th Edition - https://www.amazon.com/Mastering-Ubuntu-Server-distribution-comprehensive/dp/1803234245/ref=sr_1_1?crid=3P6DGMC080GYJ&keywords=mastering+ubuntu+server&qid=1685649571&sprefix=mastering+ubuntu+server%2Caps%2C101&sr=8-1
 
- - Network Basics for Hackers: How Networks Work and How They Break - https://www.amazon.com/Network-Basics-Hackers-Networks-Break/dp/B0BS3GZ1R9/ref=sr_1_1?crid=2ESK1L2SKCXZA&keywords=Network+Basics+for+Hackers&qid=1685648653&s=books&sprefix=network+basics+for+hackers%2Cstripbooks%2C95&sr=1-1
 
- - Cybersecurity Career Master Plan: Proven techniques and effective tips to help you advance in your cybersecurity career - https://www.amazon.com/gp/product/1801073562/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
-
- - Cybersecurity: The Beginner's Guide: A comprehensive guide to getting started in cybersecurity - https://www.amazon.com/Cybersecurity-Beginners-comprehensive-getting-cybersecurity/dp/1789616190/ref=pd_bxgy_vft_none_img_sccl_1/140-1711249-4104027?pd_rd_w=jD5Ux&content-id=amzn1.sym.26a5c67f-1a30-486b-bb90-b523ad38d5a0&pf_rd_p=26a5c67f-1a30-486b-bb90-b523ad38d5a0&pf_rd_r=DQZNRTMZ02AB55Q9SV4E&pd_rd_wg=ycpEx&pd_rd_r=adef23f1-13e2-43f1-8be2-20f229fcdf5b&pd_rd_i=1789616190&psc=1
-
- - Mastering Windows Server 2022: Comprehensive administration of your Windows Server environment, 4th Edition - https://www.amazon.com/Mastering-Windows-Server-2022-administration/dp/1837634505/ref=sr_1_15?crid=2QH1WANPVG023&keywords=packt+windows+server&qid=1685648773&s=books&sprefix=packt+windows+server%2Cstripbooks%2C90&sr=1-15
-
- - Mastering Active Directory: Design, deploy, and protect Active Directory Domain Services for Windows Server 2022, 3rd Edition - https://www.amazon.com/Mastering-Active-Directory-protect-Services/dp/1801070393/ref=sr_1_27?crid=W859K4NEI7UQ&keywords=network+security+packt&qid=1685649033&s=books&sprefix=network+security+packt%2Cstripbooks%2C100&sr=1-27&ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc
+Development:
 
  - Learn Python Programming: The no-nonsense, beginner's guide to programming, data science, and web development with Python 3.7, 2nd Edition - https://www.amazon.com/gp/aw/d/1788996666/?_encoding=UTF8&pd_rd_plhdr=t&aaxitk=641d48818b5fe9969d384c5767fb4990&hsa_cr_id=4159268800601&qid=1685648848&sr=1-1-9e67e56a-6f64-441f-a281-df67fc737124&ref_=sbx_be_s_sparkle_mcd_asin_0_img&pd_rd_w=hhwiQ&content-id=amzn1.sym.cd95889f-432f-43a7-8ec8-833616493f4a%3Aamzn1.sym.cd95889f-432f-43a7-8ec8-833616493f4a&pf_rd_p=cd95889f-432f-43a7-8ec8-833616493f4a&pf_rd_r=3XRTMX3KYPZMGTWEF144&pd_rd_wg=LoUhm&pd_rd_r=2059f6b5-92c0-4767-a5a0-6cc4773f5639
 
@@ -30,24 +48,18 @@
 
  - Learning Linux Shell Scripting: Leverage the power of shell scripts to solve real-world problems, 2nd Edition - https://www.amazon.com/Learning-Linux-Shell-Scripting-real-world-ebook/dp/B07BJKGHGT/ref=sr_1_5?crid=2X3E2SQGLN6PK&keywords=Learning+Linux+Shell+Scripting&qid=1685648971&s=books&sprefix=learning+linux+shell+scripting%2Cstripbooks%2C95&sr=1-5
 
+ - Perl Scripting for Windows Security: Live Response, Forensic Analysis, and Monitoring 1st Edition - https://www.amazon.com/Perl-Scripting-Windows-Security-Monitoring/dp/159749173X
+
+
+Security:
+
+- Cybersecurity Career Master Plan: Proven techniques and effective tips to help you advance in your cybersecurity career - https://www.amazon.com/gp/product/1801073562/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
+
+ - Cybersecurity: The Beginner's Guide: A comprehensive guide to getting started in cybersecurity - https://www.amazon.com/Cybersecurity-Beginners-comprehensive-getting-cybersecurity/dp/1789616190/ref=pd_bxgy_vft_none_img_sccl_1/140-1711249-4104027?pd_rd_w=jD5Ux&content-id=amzn1.sym.26a5c67f-1a30-486b-bb90-b523ad38d5a0&pf_rd_p=26a5c67f-1a30-486b-bb90-b523ad38d5a0&pf_rd_r=DQZNRTMZ02AB55Q9SV4E&pd_rd_wg=ycpEx&pd_rd_r=adef23f1-13e2-43f1-8be2-20f229fcdf5b&pd_rd_i=1789616190&psc=1
+
  - Practical Cybersecurity Architecture: A guide to creating and implementing robust designs for cybersecurity architects - https://www.amazon.com/Practical-Cybersecurity-Architecture-implementing-cybersecurity/dp/1838989927/ref=sr_1_2_sspa?crid=W859K4NEI7UQ&keywords=network+security+packt&qid=1685649033&s=books&sprefix=network+security+packt%2Cstripbooks%2C100&sr=1-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyRjIxNVNVUUxXWFFTJmVuY3J5cHRlZElkPUEwMjMwODkzMUJQRVJNVVc1MlYySiZlbmNyeXB0ZWRBZElkPUEwMzYzOTY4M1RIOUQ5WjY1TktNSSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=
 
  - CISSP All-in-One Exam Guide, Ninth Edition - https://www.amazon.com/CISSP-All-One-Guide-Ninth/dp/1260467376/ref=sr_1_1?crid=12E6NH50FG4QA&keywords=shon+harris+cissp&qid=1685654957&sprefix=shon+harris+cissp%2Caps%2C100&sr=8-1&ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc
 
  - Computer Security Handbook, Set (Volume 1 and 2) 6th Edition - https://www.amazon.com/Computer-Security-Handbook-Seymour-Bosworth/dp/1118127064
- 
- - Mastering Windows Security and Hardening: Secure and protect your Windows environment from cyber threats using zero-trust security principles, 2nd Edition - https://www.amazon.com/Mastering-Windows-Security-Hardening-environment/dp/180323654X/ref=sr_1_1?crid=RWKRO36CLZ4C&keywords=mastering+windows+security+and+hardening&qid=1687358253&sprefix=mastering+windows%2Caps%2C98&sr=8-1
-
- - Network Security Principles and Practices - https://www.amazon.com/Security-Principles-Practices-Professional-Development/dp/1587050250/ref=sr_1_6?crid=3CRERCN9XUYVZ&keywords=network+security+principles+and+practices&qid=1687358450&sprefix=network+security+principles+and+practices%2Caps%2C94&sr=8-6
-
- - Network Basics for Hackers: How Networks Work and How They Break - https://www.amazon.com/Network-Basics-Hackers-Networks-Break/dp/B0BS3GZ1R9/ref=sr_1_1?crid=1LI7VKVDS6TQA&keywords=network+basics+for+hackers+occupytheweb+2023&qid=1687363423&sprefix=network+basics+for%2Caps%2C102&sr=8-1
-
- - Windows Forensic Analysis DVD Toolkit 2nd Edition - https://www.amazon.com/Windows-Forensic-Analysis-DVD-Toolkit/dp/1597494224
-
- - Perl Scripting for Windows Security: Live Response, Forensic Analysis, and Monitoring 1st Edition - https://www.amazon.com/Perl-Scripting-Windows-Security-Monitoring/dp/159749173X
-
- - Network Protocols for Security Professionals: Probe and identify network-based vulnerabilities and safeguard against network protocol breaches 1st Edition - https://www.amazon.com/Network-Protocols-Security-Professionals-vulnerabilities-ebook/dp/B09FKK2JPW/ref=sr_1_1?crid=R5342K2V4YJ0&keywords=Network+Protocols+for+Security+Professionals&qid=1690814154&sprefix=network+protocols+for+security+professionals+%2Caps%2C72&sr=8-1
-
- - CompTIA Network+ N10-008 Certification Guide: The ultimate guide to passing the N10-008 exam, 2nd Edition - https://www.amazon.com/CompTIA-Network-N10-008-Certification-Guide/dp/180323606X/ref=sr_1_1?crid=3TMI2SUKO00XR&keywords=CompTIA+Network%2B+N10-008+Certification+Guide&qid=1690814288&sprefix=comptia+network%2B+n10-008+certification+guide+%2Caps%2C81&sr=8-1
-
 
