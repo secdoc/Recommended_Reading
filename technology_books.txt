@@ -1,6 +1,17 @@
 ## This is a living list of books that I have read and recommend in the area of technology and cybersecurity. This will be updated
 ## over time as I go through my library. The books that do make this list are those that make good resources for the professional or those just getting started.
+## New editions of the same book can be considered when the older version is listed.
 ## Recommended Technology Books:
+
+
+Organizational:
+
+ - Strategic Planning for Information Systems, 3rd Edition - https://www.wiley.com/en-us/Strategic+Planning+for+Information+Systems%2C+3rd+Edition-p-9781118585252
+
+ - Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations - https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339/ref=sr_1_1?crid=1UG26Q1FQOLSN&keywords=accellerate&qid=1691332618&sprefix=accellerate%2Caps%2C104&sr=8-1
+
+ - The Starfish and the Spider: The Unstoppable Power of Leaderless Organizations - https://www.amazon.com/Starfish-Spider-Unstoppable-Leaderless-Organizations/dp/1591841836/ref=sr_1_1?crid=2LSLTK71665BL&keywords=leaderless+organizations&qid=1691333354&sprefix=leaderless+organizations%2Caps%2C96&sr=8-1
+
 
 
 Networking:
@@ -37,6 +48,10 @@ Linux:
 
  - Mastering Ubuntu Server: Explore the versatile, powerful Linux Server distribution Ubuntu 22.04 with this comprehensive guide, 4th Edition - https://www.amazon.com/Mastering-Ubuntu-Server-distribution-comprehensive/dp/1803234245/ref=sr_1_1?crid=3P6DGMC080GYJ&keywords=mastering+ubuntu+server&qid=1685649571&sprefix=mastering+ubuntu+server%2Caps%2C101&sr=8-1
 
+ -  Linux Administration: The Linux Operating System and Command Line Guide for Linux Administrators - https://www.amazon.com/Linux-Administration-Operating-Command-Administrators/dp/1523915951/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1691332494&sr=8-6
+
+ - Practical Unix - https://books.google.com/books?id=PkZdv3UNTCgC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false
+
 
 Development:
 
@@ -49,6 +64,12 @@ Development:
  - Learning Linux Shell Scripting: Leverage the power of shell scripts to solve real-world problems, 2nd Edition - https://www.amazon.com/Learning-Linux-Shell-Scripting-real-world-ebook/dp/B07BJKGHGT/ref=sr_1_5?crid=2X3E2SQGLN6PK&keywords=Learning+Linux+Shell+Scripting&qid=1685648971&s=books&sprefix=learning+linux+shell+scripting%2Cstripbooks%2C95&sr=1-5
 
  - Perl Scripting for Windows Security: Live Response, Forensic Analysis, and Monitoring 1st Edition - https://www.amazon.com/Perl-Scripting-Windows-Security-Monitoring/dp/159749173X
+
+ - Threat Modeling: Designing for Security - https://www.amazon.com/Threat-Modeling-Designing-Adam-Shostack/dp/1118809998/ref=sr_1_3?crid=99FZJMHIJ9VF&keywords=threat+modeling&qid=1691331850&sprefix=threat+modeling%2Caps%2C98&sr=8-3
+
+ - Container Security: Fundamental Technology Concepts that Protect Containerized Applications - https://www.amazon.com/Container-Security-Fundamental-Containerized-Applications/dp/1492056707/ref=sr_1_3?crid=EA7H29QYX2DU&keywords=container+security&qid=1691332034&sprefix=container+sec%2Caps%2C100&sr=8-3
+
+ - Simplifying Regular Expression Using Python: Learn RegEx Like Never Before - https://www.amazon.com/Simplifying-Regular-Expression-Using-Python/dp/1094777978/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1691332666&sr=8-1
 
 
 Security:
@@ -66,4 +87,18 @@ Security:
  - Computer Security Handbook, Set (Volume 1 and 2) 6th Edition - https://www.amazon.com/Computer-Security-Handbook-Seymour-Bosworth/dp/1118127064
 
  - Ten Strategies of a World-Class Cybersecurity Operations Center - https://www.amazon.com/Strategies-World-Class-Cybersecurity-Operations-Center/dp/0692243100/ref=sr_1_1?crid=17MNEGQV2ABUO&keywords=ten+strategies+of+a+world+class+cybersecurity+operations&qid=1691331702&sprefix=ten+strategies+of+a+world+class+cybersecurity+operations%2Caps%2C92&sr=8-1
+
+ - Digital Forensics and Incident Response: Incident response tools and techniques for effective cyber threat response, 3rd Edition 3rd ed. Edition - https://www.amazon.com/Digital-Forensics-Incident-Response-techniques/dp/1803238674/ref=sr_1_1?crid=3H1P6NBA1RQDD&keywords=digital+forensics+and+incident+response&qid=1691331790&sprefix=Digital+forensics%2Caps%2C98&sr=8-1
+
+ - The Complete Metasploit Guide: Explore effective penetration testing techniques with Metasploit - https://www.amazon.com/Complete-Metasploit-Guide-penetration-techniques-ebook/dp/B07TNPLWX6/ref=sr_1_1?crid=YJNOF4BKZEU4&keywords=the+complete+metasploit+guide&qid=1691331930&sprefix=the+complete+metasploit+guide%2Caps%2C94&sr=8-1
+
+ - Nmap Network Scanning: The Official Nmap Project Guide to Network Discovery and Security Scanning - https://www.amazon.com/Nmap-Network-Scanning-Official-Discovery/dp/0979958717/ref=sr_1_1?crid=3343XU8STOHYT&keywords=nmap+network+scanning&qid=1691331982&sprefix=nmap+network%2Caps%2C85&sr=8-1
+
+ - The Official (ISC)2 CISSP CBK Reference (Cissp: Certified Information Systems Security Professional) - https://www.amazon.com/Official-ISC-CISSP-CBK-Reference/dp/1119789990/ref=sr_1_5?crid=1OVDF1CSVH7P5&keywords=official+isc2+guide+to+the+cissp+cbk&qid=1691332115&sprefix=official+isc2+guide+to+the+cissp+cbk%2Caps%2C95&sr=8-5
+
+ - Hands-On Application Penetration Testing with Burp Suite: Use Burp Suite and its features to inspect, detect, and exploit security vulnerabilities in your web applications - https://www.amazon.com/Hands-Application-Penetration-Testing-Suite/dp/178899406X/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1691332217&sr=8-5
+
+ - Basic Security Testing with Kali Linux, Fourth Edition - https://www.amazon.com/Basic-Security-Testing-Linux-Fourth/dp/B0C47PXVDJ/ref=sr_1_1?crid=5RDW1BB4FWYI&keywords=basic+security+testing+with+kali+linux&qid=1691332335&sprefix=basic+security+tes%2Caps%2C102&sr=8-1
+
+ - Learn Computer Forensics: Your one-stop guide to searching, analyzing, acquiring, and securing digital evidence, 2nd Edition - https://www.amazon.com/Learn-Computer-Forensics-searching-analyzing/dp/1803238305/ref=sr_1_1?crid=2GNTADA9LMB6G&keywords=learn+computer+forensics&qid=1691332765&sprefix=learn+computer+%2Caps%2C93&sr=8-1
 
