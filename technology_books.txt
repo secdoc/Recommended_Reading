@@ -12,6 +12,7 @@ Organizational:
 
  - The Starfish and the Spider: The Unstoppable Power of Leaderless Organizations - https://www.amazon.com/Starfish-Spider-Unstoppable-Leaderless-Organizations/dp/1591841836/ref=sr_1_1?crid=2LSLTK71665BL&keywords=leaderless+organizations&qid=1691333354&sprefix=leaderless+organizations%2Caps%2C96&sr=8-1
 
+ - Business Research Methods 14th Edition - https://www.amazon.com/Business-Research-Methods-Pamela-Schindler/dp/1260733726/ref=sr_1_6?crid=3A6M539ZBBNU5&keywords=business+research+methods&qid=1691353510&sprefix=business+reasearch+methods%2Caps%2C108&sr=8-6
 
 
 Networking:
@@ -101,4 +102,10 @@ Security:
  - Basic Security Testing with Kali Linux, Fourth Edition - https://www.amazon.com/Basic-Security-Testing-Linux-Fourth/dp/B0C47PXVDJ/ref=sr_1_1?crid=5RDW1BB4FWYI&keywords=basic+security+testing+with+kali+linux&qid=1691332335&sprefix=basic+security+tes%2Caps%2C102&sr=8-1
 
  - Learn Computer Forensics: Your one-stop guide to searching, analyzing, acquiring, and securing digital evidence, 2nd Edition - https://www.amazon.com/Learn-Computer-Forensics-searching-analyzing/dp/1803238305/ref=sr_1_1?crid=2GNTADA9LMB6G&keywords=learn+computer+forensics&qid=1691332765&sprefix=learn+computer+%2Caps%2C93&sr=8-1
+
+ - Cryptography And Network Security: Principles and Practices 4th Edition - https://www.amazon.com/Cryptography-Network-Security-William-Stallings/dp/0131873164/ref=sr_1_19?crid=3FCNU8KWGU4M5&keywords=cryptography+and+network+security&qid=1691353273&sprefix=cryptography+and+network+security%2Caps%2C107&sr=8-19
+
+ - Digital Evidence and Computer Crime 2nd Edition - https://www.amazon.com/Digital-Evidence-Computer-Crime-Eoghan/dp/0121631044/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1691353733&sr=8-4
+
+ - Digital Crime And Forensic Science in Cyberspace - https://www.amazon.com/Digital-Crime-Forensic-Science-Cyberspace/dp/1591408733/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=
 
