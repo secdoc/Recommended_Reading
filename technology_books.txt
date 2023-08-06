@@ -65,3 +65,5 @@ Security:
 
  - Computer Security Handbook, Set (Volume 1 and 2) 6th Edition - https://www.amazon.com/Computer-Security-Handbook-Seymour-Bosworth/dp/1118127064
 
+ - Ten Strategies of a World-Class Cybersecurity Operations Center - https://www.amazon.com/Strategies-World-Class-Cybersecurity-Operations-Center/dp/0692243100/ref=sr_1_1?crid=17MNEGQV2ABUO&keywords=ten+strategies+of+a+world+class+cybersecurity+operations&qid=1691331702&sprefix=ten+strategies+of+a+world+class+cybersecurity+operations%2Caps%2C92&sr=8-1
+
