@@ -61,5 +61,7 @@ Security:
 
  - CISSP All-in-One Exam Guide, Ninth Edition - https://www.amazon.com/CISSP-All-One-Guide-Ninth/dp/1260467376/ref=sr_1_1?crid=12E6NH50FG4QA&keywords=shon+harris+cissp&qid=1685654957&sprefix=shon+harris+cissp%2Caps%2C100&sr=8-1&ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc
 
+ - Reconnaissance for Ethical Hackers: Focus on the starting point of data breaches and explore essential steps for successful pentesting - https://www.amazon.com/Reconnaissance-Ethical-Hackers-successful-pentesting/dp/1837630631/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1691331359&sr=8-1
+
  - Computer Security Handbook, Set (Volume 1 and 2) 6th Edition - https://www.amazon.com/Computer-Security-Handbook-Seymour-Bosworth/dp/1118127064
 
