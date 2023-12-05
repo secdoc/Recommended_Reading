@@ -53,6 +53,8 @@ Linux:
 
  - Practical Unix - https://books.google.com/books?id=PkZdv3UNTCgC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false
 
+ - The Linux DevOps Handbook: Customize and scale your Linux distributions to accelerate your DevOps workflow - https://www.amazon.com/dp/1803245662
+
 
 Development:
 
