@@ -38,6 +38,8 @@ Windows:
  
  - Windows Forensic Analysis DVD Toolkit 2nd Edition - https://www.amazon.com/Windows-Forensic-Analysis-DVD-Toolkit/dp/1597494224
 
+ - Windows Forensics Analyst Field Guide: Engage in proactive cyber defense using digital forensics techniques  - https://www.amazon.com/Windows-Forensics-Analyst-Field-Guide/dp/1803248475/ref=sr_1_1?crid=3M84KCYT0V833&keywords=windows+forensics+analyst+field+guide&qid=1701871987&sprefix=Windows+Fore%2Caps%2C112&sr=8-1
+
 
 Linux:
 
