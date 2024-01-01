@@ -113,3 +113,11 @@ Security:
 
  - Digital Crime And Forensic Science in Cyberspace - https://www.amazon.com/Digital-Crime-Forensic-Science-Cyberspace/dp/1591408733/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=
 
+ - Extreme Privacy: What It Takes to Disappear - https://www.amazon.com/Extreme-Privacy-What-Takes-Disappear/dp/B09W79MXB4/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1704129334&sr=8-1
+
+ - Ethical Hacking: A Hands-on Introduction to Breaking In - https://www.amazon.com/Ethical-Hacking-Hands-Introduction-Breaking/dp/1718501870/ref=sr_1_2?crid=2QUJL3KXU8Q4V&keywords=ethical+hacking&qid=1704129276&sprefix=ethical+hacking%2Caps%2C174&sr=8-2
+
+ - How to Hack Like a Legend: Breaking Windows - https://www.amazon.com/Hack-Like-Legend-Sparc-Flow/dp/1718501501/ref=sr_1_1?crid=3DBAJJ81OTK3Q&keywords=how+to+hack+like+a+legend&qid=1704129303&sprefix=how+to+hack+like+a+legen%2Caps%2C171&sr=8-1
+
+ - OSINT Techniques: Resources for Uncovering Online Information - https://www.amazon.com/OSINT-Techniques-Resources-Uncovering-Information/dp/B0BRDLYX75/ref=sr_1_5?crid=3DBAJJ81OTK3Q&keywords=how+to+hack+like+a+legend&qid=1704129303&sprefix=how+to+hack+like+a+legen%2Caps%2C171&sr=8-5
+
