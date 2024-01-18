@@ -45,6 +45,8 @@ Operating Systems:
 
  	- The Linux DevOps Handbook: Customize and scale your Linux distributions to accelerate your DevOps workflow - https://www.amazon.com/dp/1803245662
 
+	- The Software Developer’s Guide to Linux - https://www.amazon.com/Software-Developers-Guide-Linux-no-nonsense/dp/1804616923/ref=sr_1_1?crid=365B75C7CLRTF&keywords=The+Software+Developer%E2%80%99s+Guide+to+Linux&qid=1705595253&sprefix=the+software+developers+guide+to+linux%2Caps%2C89&sr=8-1
+
 	Windows:
 
  	- Mastering Windows Server 2022: Comprehensive administration of your Windows Server environment, 4th Edition - https://www.amazon.com/Mastering-Windows-Server-2022-administration/dp/1837634505/ref=sr_1_15?crid=2QH1WANPVG023&keywords=packt+windows+server&qid=1685648773&s=books&sprefix=packt+windows+server%2Cstripbooks%2C90&sr=1-15
