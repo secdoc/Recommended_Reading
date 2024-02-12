@@ -165,6 +165,7 @@ Recommended Reading - This contains a "live" list of recommended/curated books t
 	
 ## Architecture
 	
+- Cybersecurity Architect's Handbook: A holistic approach to implementing and maintaining security architecture - https://www.amazon.com/dp/B0B68XXCV1
 - Practical Cybersecurity Architecture: A guide to creating and implementing robust designs for cybersecurity architects - https://www.amazon.com/Practical-Cybersecurity-Architecture-implementing-cybersecurity/dp/1838989927/ref=sr_1_2_sspa?crid=W859K4NEI7UQ&keywords=network+security+packt&qid=1685649033&s=books&sprefix=network+security+packt%2Cstripbooks%2C100&sr=1-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyRjIxNVNVUUxXWFFTJmVuY3J5cHRlZElkPUEwMjMwODkzMUJQRVJNVVc1MlYySiZlbmNyeXB0ZWRBZElkPUEwMzYzOTY4M1RIOUQ5WjY1TktNSSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=
 	
 ## Basics
