@@ -27,6 +27,8 @@ Networking:
 
  - CompTIA Network+ N10-008 Certification Guide: The ultimate guide to passing the N10-008 exam, 2nd Edition - https://www.amazon.com/CompTIA-Network-N10-008-Certification-Guide/dp/180323606X/ref=sr_1_1?crid=3TMI2SUKO00XR&keywords=CompTIA+Network%2B+N10-008+Certification+Guide&qid=1690814288&sprefix=comptia+network%2B+n10-008+certification+guide+%2Caps%2C81&sr=8-1
 
+ - Learn Wireshark: A definitive guide to expertly analyzing protocols and troubleshooting networks using Wireshark, 2nd Edition - https://a.co/d/dFzYBgl
+
 Operating Systems:
 
 	Linux:
