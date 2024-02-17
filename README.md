@@ -65,6 +65,12 @@ Recommended Reading - This contains a "live" list of recommended/curated books t
 
 - The Software Developer’s Guide to Linux - https://www.amazon.com/Software-Developers-Guide-Linux-no-nonsense/dp/1804616923/ref=sr_1_1?crid=365B75C7CLRTF&keywords=The+Software+Developer%E2%80%99s+Guide+to+Linux&qid=1705595253&sprefix=the+software+developers+guide+to+linux%2Caps%2C89&sr=8-1
 
+- OPNsense Beginner to Professional: Protect networks and build next-generation firewalls easily with OPNsense - https://www.amazon.com/gp/product/1801816875/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1
+
+- Network Security with pfSense: Architect, deploy, and operate enterprise-grade firewalls - https://www.amazon.com/gp/product/1789532973/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1
+
+- Mastering pfSense: Manage, secure, and monitor your on-premise and cloud network with pfSense 2.4, 2nd Edition - https://www.amazon.com/dp/1788993179?psc=1&ref=ppx_yo2ov_dt_b_product_details
+
 ## Windows
 
 - Mastering Windows Server 2022: Comprehensive administration of your Windows Server environment, 4th Edition - https://www.amazon.com/Mastering-Windows-Server-2022-administration/dp/1837634505/ref=sr_1_15?crid=2QH1WANPVG023&keywords=packt+windows+server&qid=1685648773&s=books&sprefix=packt+windows+server%2Cstripbooks%2C90&sr=1-15
@@ -84,6 +90,8 @@ Recommended Reading - This contains a "live" list of recommended/curated books t
 - Learning Linux Shell Scripting: Leverage the power of shell scripts to solve real-world problems, 2nd Edition - https://www.amazon.com/Learning-Linux-Shell-Scripting-real-world-ebook/dp/B07BJKGHGT/ref=sr_1_5?crid=2X3E2SQGLN6PK&keywords=Learning+Linux+Shell+Scripting&qid=1685648971&s=books&sprefix=learning+linux+shell+scripting%2Cstripbooks%2C95&sr=1-5
 	
 - Black Hat Bash -  https://nostarch.com/black-hat-bash
+
+- Mastering Linux Shell Scripting - Second Edition: A practical guide to Linux command-line and shell scripting 2nd edition - https://www.amazon.com/gp/product/1788990552/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
 	
 ## Go
 	
