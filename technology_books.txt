@@ -215,6 +215,8 @@ Security:
 	- Operator Handbook: Red Team + OSINT + Blue Team Reference - https://www.amazon.com/Operator-Handbook-Team-OSINT-Reference/dp/B085RR67H5?crid=3N3Y2N1CGCQPB&keywords=operator+handbook+red+team+osint+blue+team+reference&qid=1703614906&sprefix=Operator+handb,aps,316&sr=8-1&linkCode=sl1&tag=networkexpe08-20&linkId=ffd08e7c49ccacde56ce229f1e781892&language=en_US&ref_=as_li_ss_tl
 	
 	- Tribe of Hackers Red Team: Tribal Knowledge from the Best in Offensive Cybersecurity - https://www.amazon.com/Tribe-Hackers-Red-Team-Cybersecurity/dp/1119643325?crid=2JO1TQWPX4T4A&keywords=tribe+of+hackers&qid=1703614993&sprefix=tribe+of+hackers,aps,315&sr=8-4&linkCode=sl1&tag=networkexpe08-20&linkId=f013524abb2207c474a4e2aadd45e219&language=en_US&ref_=as_li_ss_tl
+
+	- Hacking APIs: Breaking Web Application Programming Interfaces - https://www.amazon.com/Hacking-APIs-Application-Programming-Interfaces/dp/1718502443/ref=sr_1_1?crid=3FRCGLFOSE07K&dib=eyJ2IjoiMSJ9.OB_cJM4lU0GeLHOi2JyPMBL1sbLPLISlJhSZjI1GDYHGjHj071QN20LucGBJIEps.hmMKPD3mrguD4VCvjgu8mz-CLShHSbpX05QupCyjp2o&dib_tag=se&keywords=hacking+apis+corey+ball&qid=1710424362&sprefix=hacking+AP%2Caps%2C112&sr=8-1
 	
 	- The Pentester BluePrint: Starting a Career as an Ethical Hacker - https://www.amazon.com/Pentester-BluePrint-Your-Guide-Being/dp/1119684307?crid=SEPF7TTXFESN&keywords=the+pentester+blueprint&qid=1703615127&sprefix=The+pentester+,aps,294&sr=8-1&linkCode=sl1&tag=networkexpe08-20&linkId=2fce91de05162e5f30074a77228bb0ab&language=en_US&ref_=as_li_ss_tl
 	
