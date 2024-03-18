@@ -209,6 +209,8 @@ Recommended Reading - This contains a "live" list of recommended/curated books t
 ## Ethical Hacking
 	
 - Reconnaissance for Ethical Hackers: Focus on the starting point of data breaches and explore essential steps for successful pentesting - https://www.amazon.com/Reconnaissance-Ethical-Hackers-successful-pentesting/dp/1837630631/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1691331359&sr=8-1
+
+- The Art of Social Engineering: Uncover the secrets behind the human dynamics in cybersecurity - https://www.amazon.com/dp/1804613649?psc=1&ref=ppx_yo2ov_dt_b_product_details
 	
 - The Complete Metasploit Guide: Explore effective penetration testing techniques with Metasploit - https://www.amazon.com/Complete-Metasploit-Guide-penetration-techniques-ebook/dp/B07TNPLWX6/ref=sr_1_1?crid=YJNOF4BKZEU4&keywords=the+complete+metasploit+guide&qid=1691331930&sprefix=the+complete+metasploit+guide%2Caps%2C94&sr=8-1
 	
