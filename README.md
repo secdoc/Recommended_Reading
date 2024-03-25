@@ -55,6 +55,8 @@ Recommended Reading - This contains a "live" list of recommended/curated books t
 
 - The Linux Command Line, 2nd Edition: A Complete Introduction - https://www.amazon.com/Linux-Command-Line-2nd-Introduction/dp/1593279523/ref=sr_1_1?crid=3US1KO8SKW9DO&keywords=The+Linux+Command+Line&qid=1669167285&sprefix=the+linux+command+line%2Caps%2C102&sr=8-1
 
+- Linux Kernel Programming - Second Edition: A comprehensive and practical guide to kernel internals, writing modules, and kernel synchronization - https://www.amazon.com/Linux-Kernel-Programming-practical-synchronization/dp/1803232226/ref=sr_1_1?crid=3CELUE1O7I0B6&dib=eyJ2IjoiMSJ9.xuo2CD5RhzCTkZ18XxmMS5CsISX7gWfH7bPuF8ALQp9xWwuH864zGn0IsUA71I-YL-7vA69f33vgkZRAJekDKtHoVeX8HyMO2Kj2haFO1Dxm_BTokdYOjs0GULQMG9I2jVs5S7e1O6Jc25kUzWKQesgsjblvWu7PIyvkG24OwWs_iz2PFRnHd4JRCpUSBtYC3RybLlNp3U8lHV8f0re0CRdTtsq1RUJV-oGXyqxy6zI.9I0RROWRuTQEtWP2-pv7Bmx_Fn5HajhEZ139euNFHl0&dib_tag=se&keywords=Linux+Kernel+Programming+-+Second+Edition&qid=1711370141&sprefix=linux+kernel+programming+-+second+edition%2Caps%2C82&sr=8-1
+
 - Mastering Linux Security and Hardening: Protect your Linux systems from intruders, malware attacks, and other cyber threats, 3rd Edition - https://www.amazon.com/dp/1837630518?pd_rd_i=1837630518&pf_rd_p=b000e0a0-9e93-480f-bf78-a83c8136dfcb&pf_rd_r=4NYEYTTENEBEADJK3Y5T&pd_rd_wg=dLg1d&pd_rd_w=qBhTt&pd_rd_r=041941a5-8e4b-4b16-8e7e-e857ac0c4f35
 
 - Mastering Ubuntu Server: Explore the versatile, powerful Linux Server distribution Ubuntu 22.04 with this comprehensive guide, 4th Edition - https://www.amazon.com/Mastering-Ubuntu-Server-distribution-comprehensive/dp/1803234245/ref=sr_1_1?crid=3P6DGMC080GYJ&keywords=mastering+ubuntu+server&qid=1685649571&sprefix=mastering+ubuntu+server%2Caps%2C101&sr=8-1
