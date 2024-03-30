@@ -41,6 +41,8 @@ Operating Systems:
 
  	- Mastering Linux Security and Hardening: Protect your Linux systems from intruders, malware attacks, and other cyber threats, 3rd Edition - https://www.amazon.com/dp/1837630518?pd_rd_i=1837630518&pf_rd_p=b000e0a0-9e93-480f-bf78-a83c8136dfcb&pf_rd_r=4NYEYTTENEBEADJK3Y5T&pd_rd_wg=dLg1d&pd_rd_w=qBhTt&pd_rd_r=041941a5-8e4b-4b16-8e7e-e857ac0c4f35
 
+	- Mastering Linux Administration - Second Edition - https://www.amazon.com/gp/product/1837630690/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1
+
  	- Mastering Ubuntu Server: Explore the versatile, powerful Linux Server distribution Ubuntu 22.04 with this comprehensive guide, 4th Edition - https://www.amazon.com/Mastering-Ubuntu-Server-distribution-comprehensive/dp/1803234245/ref=sr_1_1?crid=3P6DGMC080GYJ&keywords=mastering+ubuntu+server&qid=1685649571&sprefix=mastering+ubuntu+server%2Caps%2C101&sr=8-1
 
  	-  Linux Administration: The Linux Operating System and Command Line Guide for Linux Administrators - https://www.amazon.com/Linux-Administration-Operating-Command-Administrators/dp/1523915951/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1691332494&sr=8-6
@@ -177,6 +179,8 @@ Security:
 	- Extreme Privacy: What It Takes to Disappear - https://www.amazon.com/Extreme-Privacy-What-Takes-Disappear/dp/B09W79MXB4/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1704129334&sr=8-1
 	
 	- OSINT Techniques: Resources for Uncovering Online Information - https://www.amazon.com/OSINT-Techniques-Resources-Uncovering-Information/dp/B0BRDLYX75/ref=sr_1_5?crid=3DBAJJ81OTK3Q&keywords=how+to+hack+like+a+legend&qid=1704129303&sprefix=how+to+hack+like+a+legen%2Caps%2C171&sr=8-5
+
+	- Mastering Defensive Security - https://www.amazon.com/gp/product/1800208162/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1
 	
 	Bug Bounty:
 	
@@ -229,6 +233,8 @@ Security:
 	- Attacking Network Protocols: A Hacker's Guide to Capture, Analysis, and Exploitation - https://www.amazon.com/Attacking-Network-Protocols-Analysis-Exploitation/dp/1593277504?crid=24D77P7B8U8Y3&keywords=attacking+network+protocols&qid=1703616706&sprefix=atacking+network+,aps,359&sr=8-1&linkCode=sl1&tag=networkexpe08-20&linkId=71a664b6af8964c11fb6f9f9064d38d2&language=en_US&ref_=as_li_ss_tl
 	
 	- Black Hat GraphQL: Attacking Next Generation APIs - https://www.amazon.com/Black-Hat-GraphQL-Attacking-Generation/dp/1718502842?crid=1FMOD1KR7RSD9&keywords=black+hat+graphql&qid=1703617175&sprefix=Black+hat+graph,aps,380&sr=8-1&linkCode=sl1&tag=networkexpe08-20&linkId=e1283fa01cd35e0a6be2c80081932c5e&language=en_US&ref_=as_li_ss_tl
+
+	- Certified Ethical Hacker (CEH) v12 312-50 Exam Guide - https://www.amazon.com/gp/product/1801813094/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
 	
 	SOC/DFIR:
 	
