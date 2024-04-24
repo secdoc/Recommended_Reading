@@ -25,117 +25,219 @@ Recommended Reading - This contains a "live" list of recommended/curated books t
   
 # Organizational:
 
-- Strategic Planning for Information Systems, 3rd Edition - https://www.wiley.com/en-us/Strategic+Planning+for+Information+Systems%2C+3rd+Edition-p-9781118585252
+- Strategic Planning for Information Systems, 3rd Edition - https://
+www.wiley.com
+/en-us/Strategic+Planning+for+Information+Systems%2C+3rd+Edition-p-9781118585252
 
-- Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations - https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339/ref=sr_1_1?crid=1UG26Q1FQOLSN&keywords=accellerate&qid=1691332618&sprefix=accellerate%2Caps%2C104&sr=8-1
+- Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations - https://
+www.amazon.com
+/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339/ref=sr_1_1?crid=1UG26Q1FQOLSN&keywords=accellerate&qid=1691332618&sprefix=accellerate%2Caps%2C104&sr=8-1
 
-- The Starfish and the Spider: The Unstoppable Power of Leaderless Organizations - https://www.amazon.com/Starfish-Spider-Unstoppable-Leaderless-Organizations/dp/1591841836/ref=sr_1_1?crid=2LSLTK71665BL&keywords=leaderless+organizations&qid=1691333354&sprefix=leaderless+organizations%2Caps%2C96&sr=8-1
+- The Starfish and the Spider: The Unstoppable Power of Leaderless Organizations - https://
+www.amazon.com
+/Starfish-Spider-Unstoppable-Leaderless-Organizations/dp/1591841836/ref=sr_1_1?crid=2LSLTK71665BL&keywords=leaderless+organizations&qid=1691333354&sprefix=leaderless+organizations%2Caps%2C96&sr=8-1
 
-- Business Research Methods 14th Edition - https://www.amazon.com/Business-Research-Methods-Pamela-Schindler/dp/1260733726/ref=sr_1_6?crid=3A6M539ZBBNU5&keywords=business+research+methods&qid=1691353510&sprefix=business+reasearch+methods%2Caps%2C108&sr=8-6
+- Business Research Methods 14th Edition - https://
+www.amazon.com
+/Business-Research-Methods-Pamela-Schindler/dp/1260733726/ref=sr_1_6?crid=3A6M539ZBBNU5&keywords=business+research+methods&qid=1691353510&sprefix=business+reasearch+methods%2Caps%2C108&sr=8-6
 
 # Networking:
 
-- IP SUBNETTING FOR BEGINNERS: NOVICE TO PRO GUIDE TO UNDERSTANDING SUBNETTING WITH STEP BY STEP GUIDE AND DIAGRAMS - https://www.amazon.com/IP-SUBNETTING-BEGINNERS-UNDERSTANDING-DIAGRAMS/dp/1674590288/ref=sr_1_1?crid=4B36MCZ0KV9W&keywords=ip+subnetting+for+beginners&qid=1685649247&s=books&sprefix=ip+subnetting+for+beginners%2Cstripbooks%2C91&sr=1-1sim
+- IP SUBNETTING FOR BEGINNERS: NOVICE TO PRO GUIDE TO UNDERSTANDING SUBNETTING WITH STEP BY STEP GUIDE AND DIAGRAMS - https://
+www.amazon.com
+/IP-SUBNETTING-BEGINNERS-UNDERSTANDING-DIAGRAMS/dp/1674590288/ref=sr_1_1?crid=4B36MCZ0KV9W&keywords=ip+subnetting+for+beginners&qid=1685649247&s=books&sprefix=ip+subnetting+for+beginners%2Cstripbooks%2C91&sr=1-1sim
  
-- Network Basics for Hackers: How Networks Work and How They Break - https://www.amazon.com/Network-Basics-Hackers-Networks-Break/dp/B0BS3GZ1R9/ref=sr_1_1?crid=2ESK1L2SKCXZA&keywords=Network+Basics+for+Hackers&qid=1685648653&s=books&sprefix=network+basics+for+hackers%2Cstripbooks%2C95&sr=1-1
+- Network Basics for Hackers: How Networks Work and How They Break - https://
+www.amazon.com
+/Network-Basics-Hackers-Networks-Break/dp/B0BS3GZ1R9/ref=sr_1_1?crid=2ESK1L2SKCXZA&keywords=Network+Basics+for+Hackers&qid=1685648653&s=books&sprefix=network+basics+for+hackers%2Cstripbooks%2C95&sr=1-1
 
-- Network Security Principles and Practices - https://www.amazon.com/Security-Principles-Practices-Professional-Development/dp/1587050250/ref=sr_1_6?crid=3CRERCN9XUYVZ&keywords=network+security+principles+and+practices&qid=1687358450&sprefix=network+security+principles+and+practices%2Caps%2C94&sr=8-6
+- Network Security Principles and Practices - https://
+www.amazon.com
+/Security-Principles-Practices-Professional-Development/dp/1587050250/ref=sr_1_6?crid=3CRERCN9XUYVZ&keywords=network+security+principles+and+practices&qid=1687358450&sprefix=network+security+principles+and+practices%2Caps%2C94&sr=8-6
 
-- Network Protocols for Security Professionals: Probe and identify network-based vulnerabilities and safeguard against network protocol breaches 1st Edition - https://www.amazon.com/Network-Protocols-Security-Professionals-vulnerabilities-ebook/dp/B09FKK2JPW/ref=sr_1_1?crid=R5342K2V4YJ0&keywords=Network+Protocols+for+Security+Professionals&qid=1690814154&sprefix=network+protocols+for+security+professionals+%2Caps%2C72&sr=8-1
+- Network Protocols for Security Professionals: Probe and identify network-based vulnerabilities and safeguard against network protocol breaches 1st Edition - https://
+www.amazon.com
+/Network-Protocols-Security-Professionals-vulnerabilities-ebook/dp/B09FKK2JPW/ref=sr_1_1?crid=R5342K2V4YJ0&keywords=Network+Protocols+for+Security+Professionals&qid=1690814154&sprefix=network+protocols+for+security+professionals+%2Caps%2C72&sr=8-1
 
-- CompTIA Network+ N10-008 Certification Guide: The ultimate guide to passing the N10-008 exam, 2nd Edition - https://www.amazon.com/CompTIA-Network-N10-008-Certification-Guide/dp/180323606X/ref=sr_1_1?crid=3TMI2SUKO00XR&keywords=CompTIA+Network%2B+N10-008+Certification+Guide&qid=1690814288&sprefix=comptia+network%2B+n10-008+certification+guide+%2Caps%2C81&sr=8-1
+- CompTIA Network+ N10-008 Certification Guide: The ultimate guide to passing the N10-008 exam, 2nd Edition - https://
+www.amazon.com
+/CompTIA-Network-N10-008-Certification-Guide/dp/180323606X/ref=sr_1_1?crid=3TMI2SUKO00XR&keywords=CompTIA+Network%2B+N10-008+Certification+Guide&qid=1690814288&sprefix=comptia+network%2B+n10-008+certification+guide+%2Caps%2C81&sr=8-1
 
-- Learn Wireshark: A definitive guide to expertly analyzing protocols and troubleshooting networks using Wireshark, 2nd Edition - https://a.co/d/dFzYBgl
+- Learn Wireshark: A definitive guide to expertly analyzing protocols and troubleshooting networks using Wireshark, 2nd Edition - https://
+a.co
+/d/dFzYBgl
 
 # Operating Systems:
 
 ## Linux
 
-- Linux Basics for Hackers: Getting Started with Networking, Scripting, and Security in Kali - https://www.amazon.com/Linux-Basics-Hackers-Networking-Scripting/dp/1593278551/ref=sr_1_1?crid=3F2F2W0Y9HCP2&keywords=linux+basics+for+hackers&qid=1669167211&sprefix=linux+%2Caps%2C96&sr=8-1
+- Linux Basics for Hackers: Getting Started with Networking, Scripting, and Security in Kali - https://
+www.amazon.com
+/Linux-Basics-Hackers-Networking-Scripting/dp/1593278551/ref=sr_1_1?crid=3F2F2W0Y9HCP2&keywords=linux+basics+for+hackers&qid=1669167211&sprefix=linux+%2Caps%2C96&sr=8-1
 
-- The Linux Command Line, 2nd Edition: A Complete Introduction - https://www.amazon.com/Linux-Command-Line-2nd-Introduction/dp/1593279523/ref=sr_1_1?crid=3US1KO8SKW9DO&keywords=The+Linux+Command+Line&qid=1669167285&sprefix=the+linux+command+line%2Caps%2C102&sr=8-1
+- The Linux Command Line, 2nd Edition: A Complete Introduction - https://
+www.amazon.com
+/Linux-Command-Line-2nd-Introduction/dp/1593279523/ref=sr_1_1?crid=3US1KO8SKW9DO&keywords=The+Linux+Command+Line&qid=1669167285&sprefix=the+linux+command+line%2Caps%2C102&sr=8-1
 
-- Efficient Linux at the Command Line: Boost Your Command-Line Skills - https://www.amazon.com/Efficient-Linux-Command-Line-Command-Line/dp/1098113403/ref=sr_1_1?crid=XLG4TP96OMHB&dib=eyJ2IjoiMSJ9.aUl2NgCenBPp4Qc69HK51LA7uTV0iaRFBnf8auV55M2kbd2aekQmD40my_p3DN2Um-Vv15-4fz2L-0o70mA2HjyY_89BpH7eRBWpJIiIOCeRS_iKdTe6F5sQn16csyHWez65hfYvG_hXur-Q7Sp7m0wM1bGeG1d4HOVVH4zOB7m8xSA4b5X5qNeUhl02BT5-MdPhTx1Ptmin6vvbBhzELv3d6e1AJJ2ic5m8bORp5Qc.XS1-SGSln7eZaT_OmAyLWK7uZWjaTKXlxbsrt5AyDtk&dib_tag=se&keywords=efficient+linux+at+the+command+line+boost+your+command-line+skills&qid=1713391642&sprefix=efficient+linux+%2Caps%2C86&sr=8-1
+- Efficient Linux at the Command Line: Boost Your Command-Line Skills - https://
+www.amazon.com
+/Efficient-Linux-Command-Line-Command-Line/dp/1098113403/ref=sr_1_1?crid=XLG4TP96OMHB&dib=eyJ2IjoiMSJ9.aUl2NgCenBPp4Qc69HK51LA7uTV0iaRFBnf8auV55M2kbd2aekQmD40my_p3DN2Um-Vv15-4fz2L-0o70mA2HjyY_89BpH7eRBWpJIiIOCeRS_iKdTe6F5sQn16csyHWez65hfYvG_hXur-Q7Sp7m0wM1bGeG1d4HOVVH4zOB7m8xSA4b5X5qNeUhl02BT5-MdPhTx1Ptmin6vvbBhzELv3d6e1AJJ2ic5m8bORp5Qc.XS1-SGSln7eZaT_OmAyLWK7uZWjaTKXlxbsrt5AyDtk&dib_tag=se&keywords=efficient+linux+at+the+command+line+boost+your+command-line+skills&qid=1713391642&sprefix=efficient+linux+%2Caps%2C86&sr=8-1
 
-- Linux Kernel Programming - Second Edition: A comprehensive and practical guide to kernel internals, writing modules, and kernel synchronization - https://www.amazon.com/Linux-Kernel-Programming-practical-synchronization/dp/1803232226/ref=sr_1_1?crid=3CELUE1O7I0B6&dib=eyJ2IjoiMSJ9.xuo2CD5RhzCTkZ18XxmMS5CsISX7gWfH7bPuF8ALQp9xWwuH864zGn0IsUA71I-YL-7vA69f33vgkZRAJekDKtHoVeX8HyMO2Kj2haFO1Dxm_BTokdYOjs0GULQMG9I2jVs5S7e1O6Jc25kUzWKQesgsjblvWu7PIyvkG24OwWs_iz2PFRnHd4JRCpUSBtYC3RybLlNp3U8lHV8f0re0CRdTtsq1RUJV-oGXyqxy6zI.9I0RROWRuTQEtWP2-pv7Bmx_Fn5HajhEZ139euNFHl0&dib_tag=se&keywords=Linux+Kernel+Programming+-+Second+Edition&qid=1711370141&sprefix=linux+kernel+programming+-+second+edition%2Caps%2C82&sr=8-1
+- Linux Kernel Programming - Second Edition: A comprehensive and practical guide to kernel internals, writing modules, and kernel synchronization - https://
+www.amazon.com
+/Linux-Kernel-Programming-practical-synchronization/dp/1803232226/ref=sr_1_1?crid=3CELUE1O7I0B6&dib=eyJ2IjoiMSJ9.xuo2CD5RhzCTkZ18XxmMS5CsISX7gWfH7bPuF8ALQp9xWwuH864zGn0IsUA71I-YL-7vA69f33vgkZRAJekDKtHoVeX8HyMO2Kj2haFO1Dxm_BTokdYOjs0GULQMG9I2jVs5S7e1O6Jc25kUzWKQesgsjblvWu7PIyvkG24OwWs_iz2PFRnHd4JRCpUSBtYC3RybLlNp3U8lHV8f0re0CRdTtsq1RUJV-oGXyqxy6zI.9I0RROWRuTQEtWP2-pv7Bmx_Fn5HajhEZ139euNFHl0&dib_tag=se&keywords=Linux+Kernel+Programming+-+Second+Edition&qid=1711370141&sprefix=linux+kernel+programming+-+second+edition%2Caps%2C82&sr=8-1
 
-- Mastering Linux Security and Hardening: Protect your Linux systems from intruders, malware attacks, and other cyber threats, 3rd Edition - https://www.amazon.com/dp/1837630518?pd_rd_i=1837630518&pf_rd_p=b000e0a0-9e93-480f-bf78-a83c8136dfcb&pf_rd_r=4NYEYTTENEBEADJK3Y5T&pd_rd_wg=dLg1d&pd_rd_w=qBhTt&pd_rd_r=041941a5-8e4b-4b16-8e7e-e857ac0c4f35
+- Mastering Linux Security and Hardening: Protect your Linux systems from intruders, malware attacks, and other cyber threats, 3rd Edition - https://
+www.amazon.com
+/dp/1837630518?pd_rd_i=1837630518&pf_rd_p=b000e0a0-9e93-480f-bf78-a83c8136dfcb&pf_rd_r=4NYEYTTENEBEADJK3Y5T&pd_rd_wg=dLg1d&pd_rd_w=qBhTt&pd_rd_r=041941a5-8e4b-4b16-8e7e-e857ac0c4f35
 
-- Mastering Linux Administration - Second Edition - https://www.amazon.com/gp/product/1837630690/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1
+- Mastering Linux Administration - Second Edition - https://
+www.amazon.com
+/gp/product/1837630690/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1
 
-- Mastering Ubuntu Server: Explore the versatile, powerful Linux Server distribution Ubuntu 22.04 with this comprehensive guide, 4th Edition - https://www.amazon.com/Mastering-Ubuntu-Server-distribution-comprehensive/dp/1803234245/ref=sr_1_1?crid=3P6DGMC080GYJ&keywords=mastering+ubuntu+server&qid=1685649571&sprefix=mastering+ubuntu+server%2Caps%2C101&sr=8-1
+- Mastering Ubuntu Server: Explore the versatile, powerful Linux Server distribution Ubuntu 22.04 with this comprehensive guide, 4th Edition - https://
+www.amazon.com
+/Mastering-Ubuntu-Server-distribution-comprehensive/dp/1803234245/ref=sr_1_1?crid=3P6DGMC080GYJ&keywords=mastering+ubuntu+server&qid=1685649571&sprefix=mastering+ubuntu+server%2Caps%2C101&sr=8-1
 
--  Linux Administration: The Linux Operating System and Command Line Guide for Linux Administrators - https://www.amazon.com/Linux-Administration-Operating-Command-Administrators/dp/1523915951/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1691332494&sr=8-6
+-  Linux Administration: The Linux Operating System and Command Line Guide for Linux Administrators - https://
+www.amazon.com
+/Linux-Administration-Operating-Command-Administrators/dp/1523915951/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1691332494&sr=8-6
 
-- Practical Unix - https://books.google.com/books?id=PkZdv3UNTCgC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false
+- Practical Unix - https://
+books.google.com
+/books?id=PkZdv3UNTCgC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false
 
-- The Linux DevOps Handbook: Customize and scale your Linux distributions to accelerate your DevOps workflow - https://www.amazon.com/dp/1803245662
+- The Linux DevOps Handbook: Customize and scale your Linux distributions to accelerate your DevOps workflow - https://
+www.amazon.com
+/dp/1803245662
 
-- The Software Developer’s Guide to Linux - https://www.amazon.com/Software-Developers-Guide-Linux-no-nonsense/dp/1804616923/ref=sr_1_1?crid=365B75C7CLRTF&keywords=The+Software+Developer%E2%80%99s+Guide+to+Linux&qid=1705595253&sprefix=the+software+developers+guide+to+linux%2Caps%2C89&sr=8-1
+- The Software Developer’s Guide to Linux - https://
+www.amazon.com
+/Software-Developers-Guide-Linux-no-nonsense/dp/1804616923/ref=sr_1_1?crid=365B75C7CLRTF&keywords=The+Software+Developer%E2%80%99s+Guide+to+Linux&qid=1705595253&sprefix=the+software+developers+guide+to+linux%2Caps%2C89&sr=8-1
 
-- OPNsense Beginner to Professional: Protect networks and build next-generation firewalls easily with OPNsense - https://www.amazon.com/gp/product/1801816875/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1
+- OPNsense Beginner to Professional: Protect networks and build next-generation firewalls easily with OPNsense - https://
+www.amazon.com
+/gp/product/1801816875/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1
 
-- Network Security with pfSense: Architect, deploy, and operate enterprise-grade firewalls - https://www.amazon.com/gp/product/1789532973/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1
+- Network Security with pfSense: Architect, deploy, and operate enterprise-grade firewalls - https://
+www.amazon.com
+/gp/product/1789532973/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1
 
-- Mastering pfSense: Manage, secure, and monitor your on-premise and cloud network with pfSense 2.4, 2nd Edition - https://www.amazon.com/dp/1788993179?psc=1&ref=ppx_yo2ov_dt_b_product_details
+- Mastering pfSense: Manage, secure, and monitor your on-premise and cloud network with pfSense 2.4, 2nd Edition - https://
+www.amazon.com
+/dp/1788993179?psc=1&ref=ppx_yo2ov_dt_b_product_details
 
 ## Windows
 
-- Mastering Windows Server 2022: Comprehensive administration of your Windows Server environment, 4th Edition - https://www.amazon.com/Mastering-Windows-Server-2022-administration/dp/1837634505/ref=sr_1_15?crid=2QH1WANPVG023&keywords=packt+windows+server&qid=1685648773&s=books&sprefix=packt+windows+server%2Cstripbooks%2C90&sr=1-15
+- Mastering Windows Server 2022: Comprehensive administration of your Windows Server environment, 4th Edition - https://
+www.amazon.com
+/Mastering-Windows-Server-2022-administration/dp/1837634505/ref=sr_1_15?crid=2QH1WANPVG023&keywords=packt+windows+server&qid=1685648773&s=books&sprefix=packt+windows+server%2Cstripbooks%2C90&sr=1-15
 
-- Mastering Active Directory: Design, deploy, and protect Active Directory Domain Services for Windows Server 2022, 3rd Edition - https://www.amazon.com/Mastering-Active-Directory-protect-Services/dp/1801070393/ref=sr_1_27?crid=W859K4NEI7UQ&keywords=network+security+packt&qid=1685649033&s=books&sprefix=network+security+packt%2Cstripbooks%2C100&sr=1-27&ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc
+- Mastering Active Directory: Design, deploy, and protect Active Directory Domain Services for Windows Server 2022, 3rd Edition - https://
+www.amazon.com
+/Mastering-Active-Directory-protect-Services/dp/1801070393/ref=sr_1_27?crid=W859K4NEI7UQ&keywords=network+security+packt&qid=1685649033&s=books&sprefix=network+security+packt%2Cstripbooks%2C100&sr=1-27&ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc
 
-- Mastering Windows Security and Hardening: Secure and protect your Windows environment from cyber threats using zero-trust security principles, 2nd Edition - https://www.amazon.com/Mastering-Windows-Security-Hardening-environment/dp/180323654X/ref=sr_1_1?crid=RWKRO36CLZ4C&keywords=mastering+windows+security+and+hardening&qid=1687358253&sprefix=mastering+windows%2Caps%2C98&sr=8-1
+- Mastering Windows Security and Hardening: Secure and protect your Windows environment from cyber threats using zero-trust security principles, 2nd Edition - https://
+www.amazon.com
+/Mastering-Windows-Security-Hardening-environment/dp/180323654X/ref=sr_1_1?crid=RWKRO36CLZ4C&keywords=mastering+windows+security+and+hardening&qid=1687358253&sprefix=mastering+windows%2Caps%2C98&sr=8-1
  
-- Windows Forensic Analysis DVD Toolkit 2nd Edition - https://www.amazon.com/Windows-Forensic-Analysis-DVD-Toolkit/dp/1597494224
+- Windows Forensic Analysis DVD Toolkit 2nd Edition - https://
+www.amazon.com
+/Windows-Forensic-Analysis-DVD-Toolkit/dp/1597494224
 
-- Windows Forensics Analyst Field Guide: Engage in proactive cyber defense using digital forensics techniques  - https://www.amazon.com/Windows-Forensics-Analyst-Field-Guide/dp/1803248475/ref=sr_1_1?crid=3M84KCYT0V833&keywords=windows+forensics+analyst+field+guide&qid=1701871987&sprefix=Windows+Fore%2Caps%2C112&sr=8-1
+- Windows Forensics Analyst Field Guide: Engage in proactive cyber defense using digital forensics techniques  - https://
+www.amazon.com
+/Windows-Forensics-Analyst-Field-Guide/dp/1803248475/ref=sr_1_1?crid=3M84KCYT0V833&keywords=windows+forensics+analyst+field+guide&qid=1701871987&sprefix=Windows+Fore%2Caps%2C112&sr=8-1
 
 # Development:
 
 ## Bash
 	
-- Learning Linux Shell Scripting: Leverage the power of shell scripts to solve real-world problems, 2nd Edition - https://www.amazon.com/Learning-Linux-Shell-Scripting-real-world-ebook/dp/B07BJKGHGT/ref=sr_1_5?crid=2X3E2SQGLN6PK&keywords=Learning+Linux+Shell+Scripting&qid=1685648971&s=books&sprefix=learning+linux+shell+scripting%2Cstripbooks%2C95&sr=1-5
+- Learning Linux Shell Scripting: Leverage the power of shell scripts to solve real-world problems, 2nd Edition - https://
+www.amazon.com
+/Learning-Linux-Shell-Scripting-real-world-ebook/dp/B07BJKGHGT/ref=sr_1_5?crid=2X3E2SQGLN6PK&keywords=Learning+Linux+Shell+Scripting&qid=1685648971&s=books&sprefix=learning+linux+shell+scripting%2Cstripbooks%2C95&sr=1-5
 	
-- Black Hat Bash -  https://nostarch.com/black-hat-bash
+- Black Hat Bash -  https://
+nostarch.com
+/black-hat-bash
 
-- Mastering Linux Shell Scripting - Second Edition: A practical guide to Linux command-line and shell scripting 2nd edition - https://www.amazon.com/gp/product/1788990552/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
+- Mastering Linux Shell Scripting - Second Edition: A practical guide to Linux command-line and shell scripting 2nd edition - https://
+www.amazon.com
+/gp/product/1788990552/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
 	
 ## Go
 	
-- Black Hat Go: Go Programming For Hackers and Pentesters - https://www.amazon.com/Black-Hat-Go-Programming-Pentesters/dp/1593278659?crid=2GWT4BZK23QLK&keywords=black+hat+go&qid=1703617340&sprefix=black+hat+go,aps,372&sr=8-1&linkCode=sl1&tag=networkexpe08-20&linkId=0bce7cc77588ad03d16ace39ed1ae98c&language=en_US&ref_=as_li_ss_tl
+- Black Hat Go: Go Programming For Hackers and Pentesters - https://
+www.amazon.com
+/Black-Hat-Go-Programming-Pentesters/dp/1593278659?crid=2GWT4BZK23QLK&keywords=black+hat+go&qid=1703617340&sprefix=black+hat+go,aps,372&sr=8-1&linkCode=sl1&tag=networkexpe08-20&linkId=
+0bce7cc77588ad03d16ace39ed1ae98c
+&language=en_US&ref_=as_li_ss_tl
 	
 ## Perl
 	
-- Perl Scripting for Windows Security: Live Response, Forensic Analysis, and Monitoring 1st Edition - https://www.amazon.com/Perl-Scripting-Windows-Security-Monitoring/dp/159749173X
+- Perl Scripting for Windows Security: Live Response, Forensic Analysis, and Monitoring 1st Edition - https://
+www.amazon.com
+/Perl-Scripting-Windows-Security-Monitoring/dp/159749173X
 	
 ## Powershell
 	
-- Mastering PowerShell Scripting: Automate and manage your environment using PowerShell 7.1, 4th Edition - https://www.amazon.com/Mastering-PowerShell-Scripting-Automate-environment/dp/1800206542/ref=sr_1_10?crid=1PVSPEI59IHRA&keywords=learn+powershell+packt&qid=1685648903&s=books&sprefix=learn+powershell+packt%2Cstripbooks%2C93&sr=1-10
+- Mastering PowerShell Scripting: Automate and manage your environment using PowerShell 7.1, 4th Edition - https://
+www.amazon.com
+/Mastering-PowerShell-Scripting-Automate-environment/dp/1800206542/ref=sr_1_10?crid=1PVSPEI59IHRA&keywords=learn+powershell+packt&qid=1685648903&s=books&sprefix=learn+powershell+packt%2Cstripbooks%2C93&sr=1-10
 
 ## Python
 	
-- Learn Python Programming: The no-nonsense, beginner's guide to programming, data science, and web development with Python 3.7, 2nd Edition - https://www.amazon.com/gp/aw/d/1788996666/?_encoding=UTF8&pd_rd_plhdr=t&aaxitk=641d48818b5fe9969d384c5767fb4990&hsa_cr_id=4159268800601&qid=1685648848&sr=1-1-9e67e56a-6f64-441f-a281-df67fc737124&ref_=sbx_be_s_sparkle_mcd_asin_0_img&pd_rd_w=hhwiQ&content-id=amzn1.sym.cd95889f-432f-43a7-8ec8-833616493f4a%3Aamzn1.sym.cd95889f-432f-43a7-8ec8-833616493f4a&pf_rd_p=cd95889f-432f-43a7-8ec8-833616493f4a&pf_rd_r=3XRTMX3KYPZMGTWEF144&pd_rd_wg=LoUhm&pd_rd_r=2059f6b5-92c0-4767-a5a0-6cc4773f5639
+- Learn Python Programming: The no-nonsense, beginner's guide to programming, data science, and web development with Python 3.7, 2nd Edition - https://
+www.amazon.com
+/gp/aw/d/1788996666/?_encoding=UTF8&pd_rd_plhdr=t&aaxitk=
+641d48818b5fe9969d384c5767fb4990
+&hsa_cr_id=4159268800601&qid=1685648848&sr=1-1-9e67e56a-6f64-441f-a281-df67fc737124&ref_=sbx_be_s_sparkle_mcd_asin_0_img&pd_rd_w=hhwiQ&content-id=
+amzn1.sym.cd
+95889f-432f-43a7-8ec8-833616493f4a%3A
+amzn1.sym.cd
+95889f-432f-43a7-8ec8-833616493f4a&pf_rd_p=cd95889f-432f-43a7-8ec8-833616493f4a&pf_rd_r=3XRTMX3KYPZMGTWEF144&pd_rd_wg=LoUhm&pd_rd_r=2059f6b5-92c0-4767-a5a0-6cc4773f5639
 	
-- Mastering Python Regular Expressions - https://www.amazon.com/Mastering-Python-Regular-Expressions-Felix/dp/1783283157/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1685649310&sr=1-2
+- Mastering Python Regular Expressions - https://
+www.amazon.com
+/Mastering-Python-Regular-Expressions-Felix/dp/1783283157/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1685649310&sr=1-2
 	
-- Simplifying Regular Expression Using Python: Learn RegEx Like Never Before - https://www.amazon.com/Simplifying-Regular-Expression-Using-Python/dp/1094777978/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1691332666&sr=8-1
+- Simplifying Regular Expression Using Python: Learn RegEx Like Never Before - https://
+www.amazon.com
+/Simplifying-Regular-Expression-Using-Python/dp/1094777978/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1691332666&sr=8-1
 	
-- Black Hat Python, 2nd Edition: Python Programming for Hackers and Pentesters - https://www.amazon.com/Black-Hat-Python-2nd-Programming/dp/1718501129?crid=10JTEYT5XEJXP&keywords=black+hat+python,+2nd+edition&qid=1703617392&sprefix=black+hat+python,aps,401&sr=8-1&linkCode=sl1&tag=networkexpe08-20&linkId=fa0d87492747cb45b16b98843c7cd459&language=en_US&ref_=as_li_ss_tl
+- Black Hat Python, 2nd Edition: Python Programming for Hackers and Pentesters - https://
+www.amazon.com
+/Black-Hat-Python-2nd-Programming/dp/1718501129?crid=10JTEYT5XEJXP&keywords=black+hat+python,+2nd+edition&qid=1703617392&sprefix=black+hat+python,aps,401&sr=8-1&linkCode=sl1&tag=networkexpe08-20&linkId=
+fa0d87492747cb45b16b98843c7cd459
+&language=en_US&ref_=as_li_ss_tl
 	
-- Python Real World Projects  - https://www.amazon.com/Python-Real-World-Projects-deployable-applications/dp/1803246766/ref=sr_1_1?crid=3KDF3ULJHPKY4&keywords=python+real+world+projects&qid=1704907780&sprefix=ython+real+world+projects+%2Caps%2C77&sr=8-1
+- Python Real World Projects  - https://
+www.amazon.com
+/Python-Real-World-Projects-deployable-applications/dp/1803246766/ref=sr_1_1?crid=3KDF3ULJHPKY4&keywords=python+real+world+projects&qid=1704907780&sprefix=ython+real+world+projects+%2Caps%2C77&sr=8-1
 	
-- Python Object-Oriented Programming  - https://www.amazon.com/Python-Object-Oriented-Programming-maintainable-object-oriented/dp/1801077266/ref=sr_1_1?crid=2BOW0D0P7JFPJ&keywords=Python+Object-Oriented+Programming&qid=1704907814&sprefix=python+object-oriented+programming+%2Caps%2C104&sr=8-1
+- Python Object-Oriented Programming  - https://
+www.amazon.com
+/Python-Object-Oriented-Programming-maintainable-object-oriented/dp/1801077266/ref=sr_1_1?crid=2BOW0D0P7JFPJ&keywords=Python+Object-Oriented+Programming&qid=1704907814&sprefix=python+object-oriented+programming+%2Caps%2C104&sr=8-1
 	
-- Mastering Python: Write powerful and efficient code using the full range of Python's capabilities - https://www.amazon.com/Mastering-Python-powerful-efficient-capabilities/dp/1800207727/ref=sr_1_1?crid=1R0JMJQJ7I8E2&keywords=Mastering+Python&qid=1704907851&sprefix=mastering+python+%2Caps%2C84&sr=8-1
+- Mastering Python: Write powerful and efficient code using the full range of Python's capabilities - https://
+www.amazon.com
+/Mastering-Python-powerful-efficient-capabilities/dp/1800207727/ref=sr_1_1?crid=1R0JMJQJ7I8E2&keywords=Mastering+Python&qid=1704907851&sprefix=mastering+python+%2Caps%2C84&sr=8-1
 	
-- The Python Workshop: Write Python code to solve challenging real-world problems - https://www.amazon.com/Python-Workshop-challenging-real-world-problems/dp/1804610615/ref=sr_1_1?crid=2IEXATXVS374Q&keywords=The+Python+Workshop&qid=1704907894&sprefix=the+python+workshop+%2Caps%2C85&sr=8-1
+- The Python Workshop: Write Python code to solve challenging real-world problems - https://
+www.amazon.com
+/Python-Workshop-challenging-real-world-problems/dp/1804610615/ref=sr_1_1?crid=2IEXATXVS374Q&keywords=The+Python+Workshop&qid=1704907894&sprefix=the+python+workshop+%2Caps%2C85&sr=8-1
 	
-- Metaprogramming with Python: A programmer's guide to writing reusable code to build smarter applications - https://www.amazon.com/Metaprogramming-Python-programmers-reusable-applications-ebook/dp/B0B3XRW577/ref=sr_1_1?crid=3ARD9H2GIQK21&keywords=Metaprogramming+with+Python&qid=1704907946&sprefix=metaprogramming+with+python+%2Caps%2C90&sr=8-1
+- Metaprogramming with Python: A programmer's guide to writing reusable code to build smarter applications - https://
+www.amazon.com
+/Metaprogramming-Python-programmers-reusable-applications-ebook/dp/B0B3XRW577/ref=sr_1_1?crid=3ARD9H2GIQK21&keywords=Metaprogramming+with+Python&qid=1704907946&sprefix=metaprogramming+with+python+%2Caps%2C90&sr=8-1
 	
-- Functional Python Programming: Use a functional approach to write succinct, expressive, and efficient Python code - https://www.amazon.com/Functional-Python-Programming-functional-expressive/dp/1803232579/ref=sr_1_1?crid=SGUBMV0Q7APW&keywords=Functional+Python+Programming&qid=1704907982&sprefix=functional+python+programming+%2Caps%2C82&sr=8-1
+- Functional Python Programming: Use a functional approach to write succinct, expressive, and efficient Python code - https://
+www.amazon.com
+/Functional-Python-Programming-functional-expressive/dp/1803232579/ref=sr_1_1?crid=SGUBMV0Q7APW&keywords=Functional+Python+Programming&qid=1704907982&sprefix=functional+python+programming+%2Caps%2C82&sr=8-1
 	
-- Python for Geeks: Build production-ready applications using advanced Python concepts and industry best practices - https://www.amazon.com/Python-Geeks-production-ready-applications-practices-ebook/dp/B096SZKQ3K/ref=sr_1_1?crid=1VTCIOHV1DEY9&keywords=Python+for+Geeks&qid=1704908024&sprefix=python+for+geeks+%2Caps%2C86&sr=8-1
+- Python for Geeks: Build production-ready applications using advanced Python concepts and industry best practices - https://
+www.amazon.com
+/Python-Geeks-production-ready-applications-practices-ebook/dp/B096SZKQ3K/ref=sr_1_1?crid=1VTCIOHV1DEY9&keywords=Python+for+Geeks&qid=1704908024&sprefix=python+for+geeks+%2Caps%2C86&sr=8-1
 	
 - Applied Computational Thinking with Python: Algorithm design for complex real-world problems - https://www.amazon.com/Applied-Computational-Thinking-Python-real-world/dp/1837632308/ref=sr_1_1?crid=NR72J1HEQ0KQ&keywords=Applied+Computational+Thinking+with+Python&qid=1704908057&sprefix=applied+computational+thinking+with+python+%2Caps%2C79&sr=8-1
 	
@@ -199,6 +301,8 @@ Recommended Reading - This contains a "live" list of recommended/curated books t
 - OSINT Techniques: Resources for Uncovering Online Information - https://www.amazon.com/OSINT-Techniques-Resources-Uncovering-Information/dp/B0BRDLYX75/ref=sr_1_5?crid=3DBAJJ81OTK3Q&keywords=how+to+hack+like+a+legend&qid=1704129303&sprefix=how+to+hack+like+a+legen%2Caps%2C171&sr=8-5
 
 - Mastering Defensive Security - https://www.amazon.com/gp/product/1800208162/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1
+
+- Security Engineering: A Guide to Building Dependable Distributed Systems 3rd Edition - https://www.amazon.com/dp/1119642787?psc=1&ref=ppx_yo2ov_dt_b_product_details
 	
 ## Bug Bounty
 	
