@@ -285,6 +285,10 @@ Security:
 	- Breaking into Information Security: Learning the Ropes 101 - https://www.amazon.com/Breaking-into-Information-Security-Learning-ebook/dp/B0BRDDZQTG?crid=2EYM59JVXZ1J6&keywords=breaking+into+information+security&qid=1703617507&sprefix=breaking+into+inform,aps,378&sr=8-1&linkCode=sl1&tag=networkexpe08-20&linkId=944d2fdd655218d5cf6e929029e7cf3e&language=en_US&ref_=as_li_ss_tl
 	
 	- Expanding Your Security Horizons: Learning The Ropes 102 - https://www.amazon.com/Expanding-Your-Security-Horizons-Learning-ebook/dp/B0BRBX8RZ6?crid=16FNUXU6WC9QE&keywords=Expanding+security+horizons&qid=1703617573&sprefix=expanding+security+horizons,aps,413&sr=8-1&linkCode=sl1&tag=networkexpe08-20&linkId=c7587fe0fddba8dee23c33fc2c43ab8e&language=en_US&ref_=as_li_ss_tl
+			
+	AI
+
+	 - ChatGPT for Cybersecurity Cookbook: Learn practical generative AI recipes to supercharge your cybersecurity skills - https://www.amazon.com/ChatGPT-Cybersecurity-Cookbook-generative-supercharge/dp/1805124048/ref=cm_cr_arp_d_product_top?ie=UTF8
 	
 	Architecture:
 	
