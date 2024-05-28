@@ -15,6 +15,7 @@ Recommended Reading - This contains a "live" list of recommended/curated books t
      + [Misc](#misc)
  - [Security](#security):
      + [Career](#career)
+     + [AI](#AI)
      + [Architecture](#architecture)
      + [Basics](#basics)
      + [Bug Bounty](#bug-bounty)
@@ -281,6 +282,9 @@ www.amazon.com
 	
 - Expanding Your Security Horizons: Learning The Ropes 102 - https://www.amazon.com/Expanding-Your-Security-Horizons-Learning-ebook/dp/B0BRBX8RZ6?crid=16FNUXU6WC9QE&keywords=Expanding+security+horizons&qid=1703617573&sprefix=expanding+security+horizons,aps,413&sr=8-1&linkCode=sl1&tag=networkexpe08-20&linkId=c7587fe0fddba8dee23c33fc2c43ab8e&language=en_US&ref_=as_li_ss_tl
 	
+## AI
+
+ - ChatGPT for Cybersecurity Cookbook: Learn practical generative AI recipes to supercharge your cybersecurity skills - https://www.amazon.com/ChatGPT-Cybersecurity-Cookbook-generative-supercharge/dp/1805124048/ref=cm_cr_arp_d_product_top?ie=UTF8
 ## Architecture
 	
 - Cybersecurity Architect's Handbook: A holistic approach to implementing and maintaining security architecture - https://www.amazon.com/dp/B0B68XXCV1
