@@ -26,39 +26,24 @@ Recommended Reading - This contains a "live" list of recommended/curated books t
   
 # Organizational:
 
-- Strategic Planning for Information Systems, 3rd Edition - https://
-www.wiley.com
-/en-us/Strategic+Planning+for+Information+Systems%2C+3rd+Edition-p-9781118585252
+- [Strategic Planning for Information Systems, 3rd Edition](https://www.wiley.com/en-us/Strategic+Planning+for+Information+Systems%2C+3rd+Edition-p-9781118585252)
 
-- Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations - https://
-www.amazon.com
-/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339/ref=sr_1_1?crid=1UG26Q1FQOLSN&keywords=accellerate&qid=1691332618&sprefix=accellerate%2Caps%2C104&sr=8-1
+- [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339/ref=sr_1_1?crid=1UG26Q1FQOLSN&keywords=accellerate&qid=1691332618&sprefix=accellerate%2Caps%2C104&sr=8-1)
 
-- The Starfish and the Spider: The Unstoppable Power of Leaderless Organizations - https://
-www.amazon.com
-/Starfish-Spider-Unstoppable-Leaderless-Organizations/dp/1591841836/ref=sr_1_1?crid=2LSLTK71665BL&keywords=leaderless+organizations&qid=1691333354&sprefix=leaderless+organizations%2Caps%2C96&sr=8-1
+- [The Starfish and the Spider: The Unstoppable Power of Leaderless Organizations](https://www.amazon.com/Starfish-Spider-Unstoppable-Leaderless-Organizations/dp/1591841836/ref=sr_1_1?crid=2LSLTK71665BL&keywords=leaderless+organizations&qid=1691333354&sprefix=leaderless+organizations%2Caps%2C96&sr=8-1)
 
-- Business Research Methods 14th Edition - https://
-www.amazon.com
-/Business-Research-Methods-Pamela-Schindler/dp/1260733726/ref=sr_1_6?crid=3A6M539ZBBNU5&keywords=business+research+methods&qid=1691353510&sprefix=business+reasearch+methods%2Caps%2C108&sr=8-6
+- [Business Research Methods 14th Edition](https://www.amazon.com/Business-Research-Methods-Pamela-Schindler/dp/1260733726/ref=sr_1_6?crid=3A6M539ZBBNU5&keywords=business+research+methods&qid=1691353510&sprefix=business+reasearch+methods%2Caps%2C108&sr=8-6)
 
 # Networking:
 
-- IP SUBNETTING FOR BEGINNERS: NOVICE TO PRO GUIDE TO UNDERSTANDING SUBNETTING WITH STEP BY STEP GUIDE AND DIAGRAMS - https://
-www.amazon.com
-/IP-SUBNETTING-BEGINNERS-UNDERSTANDING-DIAGRAMS/dp/1674590288/ref=sr_1_1?crid=4B36MCZ0KV9W&keywords=ip+subnetting+for+beginners&qid=1685649247&s=books&sprefix=ip+subnetting+for+beginners%2Cstripbooks%2C91&sr=1-1sim
+- [IP SUBNETTING FOR BEGINNERS: NOVICE TO PRO GUIDE TO UNDERSTANDING SUBNETTING WITH STEP BY STEP GUIDE AND DIAGRAMS](https://www.amazon.com/IP-SUBNETTING-BEGINNERS-UNDERSTANDING-DIAGRAMS/dp/1674590288/ref=sr_1_1?crid=4B36MCZ0KV9W&keywords=ip+subnetting+for+beginners&qid=1685649247&s=books&sprefix=ip+subnetting+for+beginners%2Cstripbooks%2C91&sr=1-1sim)
  
-- Network Basics for Hackers: How Networks Work and How They Break - https://
-www.amazon.com
-/Network-Basics-Hackers-Networks-Break/dp/B0BS3GZ1R9/ref=sr_1_1?crid=2ESK1L2SKCXZA&keywords=Network+Basics+for+Hackers&qid=1685648653&s=books&sprefix=network+basics+for+hackers%2Cstripbooks%2C95&sr=1-1
+- [Network Basics for Hackers: How Networks Work and How They Break](https://www.amazon.com/Network-Basics-Hackers-Networks-Break/dp/B0BS3GZ1R9/ref=sr_1_1?crid=2ESK1L2SKCXZA&keywords=Network+Basics+for+Hackers&qid=1685648653&s=books&sprefix=network+basics+for+hackers%2Cstripbooks%2C95&sr=1-1)
 
-- Network Security Principles and Practices - https://
-www.amazon.com
-/Security-Principles-Practices-Professional-Development/dp/1587050250/ref=sr_1_6?crid=3CRERCN9XUYVZ&keywords=network+security+principles+and+practices&qid=1687358450&sprefix=network+security+principles+and+practices%2Caps%2C94&sr=8-6
+- [Network Security Principles and Practices](https://www.amazon.com/Security-Principles-Practices-Professional-Development/dp/1587050250/ref=sr_1_6?crid=3CRERCN9XUYVZ&keywords=network+security+principles+and+practices&qid=1687358450&sprefix=network+security+principles+and+practices%2Caps%2C94&sr=8-6)
 
-- Network Protocols for Security Professionals: Probe and identify network-based vulnerabilities and safeguard against network protocol breaches 1st Edition - https://
-www.amazon.com
-/Network-Protocols-Security-Professionals-vulnerabilities-ebook/dp/B09FKK2JPW/ref=sr_1_1?crid=R5342K2V4YJ0&keywords=Network+Protocols+for+Security+Professionals&qid=1690814154&sprefix=network+protocols+for+security+professionals+%2Caps%2C72&sr=8-1
+- [Network Protocols for Security Professionals: Probe and identify network-based vulnerabilities and safeguard against network protocol breaches 1st Edition](https://www.amazon.com
+/Network-Protocols-Security-Professionals-vulnerabilities-ebook/dp/B09FKK2JPW/ref=sr_1_1?crid=R5342K2V4YJ0&keywords=Network+Protocols+for+Security+Professionals&qid=1690814154&sprefix=network+protocols+for+security+professionals+%2Caps%2C72&sr=8-1)
 
 - CompTIA Network+ N10-008 Certification Guide: The ultimate guide to passing the N10-008 exam, 2nd Edition - https://
 www.amazon.com
