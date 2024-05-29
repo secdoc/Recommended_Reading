@@ -112,7 +112,7 @@ Recommended Reading - This contains a "live" list of recommended/curated books t
 	
 ## Powershell
 	
-- [Mastering PowerShell Scripting: Automate and manage your environment using PowerShell 7.1, 4th Edition](https://www.amazon.com/Mastering-PowerShell-Scripting-Automate-environment/dp/1800206542/ref=sr_1_10?crid=1PVSPEI59IHRA&keywords=learn+powershell+packt&qid=1685648903&s=books&sprefix=learn+powershell+packt%2Cstripbooks%2C93&sr=1-10)
+- [Mastering PowerShell Scripting - Fifth Edition: Automate repetitive tasks and simplify complex administrative tasks using PowerShell](https://www.amazon.com/Mastering-PowerShell-Scripting-repetitive-administrative-dp-1805120271/dp/1805120271/ref=dp_ob_title_bk)
 
 ## Python
 	
