@@ -15,7 +15,7 @@ Recommended Reading - This contains a "live" list of recommended/curated books t
      + [Powershell](#powershell)
      + [Python](#python)
      + [Misc](#misc)
- - [Security](#security):
+ - [Security](#security)
      + [Career](#career)
      + [AI](#AI)
      + [Architecture](#architecture)
