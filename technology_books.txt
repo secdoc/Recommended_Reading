@@ -298,6 +298,8 @@ Security:
 	
 	Basics:
 	
+	- Cryptography Algorithms: Explore New Algorithms in Zero-knowledge, Homomorphic Encryption, and Quantum Cryptography - https://www.amazon.com/Cryptography-Algorithms-Zero-knowledge-Homomorphic-Encryption/dp/1835080030/ref=sr_1_2?crid=TNRFPDKJPOJH&dib=eyJ2IjoiMSJ9.z9egqrPiU9d32LiVXxY1abVCLre_mcdpWrmq3uMoo7DotH2rjR4tGPRS5m3Bk_hvH7vjPOC8lLg8x-SbFVIkAw1zyikGdLc3caSHzWPj6k0AcJ8LGUXeSywp4h-nMz-qWbMe_riHOT01CN8z2Z0mC18jxrQCOwboGn_u9SrPLla6geAlyCzD5wVb9F4KYbx2ePdVhKViaZmGIciBOI3VYECHgfQ3L877TWYg8kE0OgdYaUrIeHfvxkdvsb5qsp1JwvOXPyrc16ieMMWlUayh-MyjWuanivpaCzbQVlAioU4.0W56K-pbpG7jWP9rH6dtvHrQMi2rTMx_R2eX5I6GpMg&dib_tag=se&keywords=cryptography+algorithms&qid=1723556731&sprefix=cryptography+algorithms+%2Caps%2C249&sr=8-2
+
 	- Computer Security Handbook, Set (Volume 1 and 2) 6th Edition - https://www.amazon.com/Computer-Security-Handbook-Seymour-Bosworth/dp/1118127064
 	
 	- CISSP All-in-One Exam Guide, Ninth Edition - https://www.amazon.com/CISSP-All-One-Guide-Ninth/dp/1260467376/ref=sr_1_1?crid=12E6NH50FG4QA&keywords=shon+harris+cissp&qid=1685654957&sprefix=shon+harris+cissp%2Caps%2C100&sr=8-1&ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc
