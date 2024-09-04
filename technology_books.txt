@@ -292,6 +292,8 @@ Security:
 	
 	Architecture:
 	
+	- Applied Cryptography: Protocols, Algorithms and Source Code in C - https://www.amazon.com/Applied-Cryptography-Protocols-Algorithms-Source/dp/1119096723/ref=sr_1_1?crid=3Q2FZ02LZWYA7&dib=eyJ2IjoiMSJ9.Mikrz8451MnAeTgeIQPSJftfZXoJXtXgUvp2VhZmMvAQbUjnO94ifXId4KqakvKYQttB7xturDAKGhkDW9EolQ1g3j6WoOGURo-f2JiZ_uvJtH-7eUdAPbERDXtuLavxEbUPZR1VfPzaK21BlYqHquxWtsJQBVqPmJbLiLSXWR98Fb_lGy9LziTI8-ePbvhgiD-Q7-teKCaUioPmFVFs7f2NjQTqZejyIsBjU2XQ9fU.at7vXqyoVUSTVYKuypBM05vXdcZasQE4EfSwhLUXnLA&dib_tag=se&keywords=applied+cryptography&qid=1725454362&sprefix=applied+crypt%2Caps%2C92&sr=8-1
+
 	- Cybersecurity Architect's Handbook: A holistic approach to implementing and maintaining security architecture - https://www.amazon.com/dp/B0B68XXCV1
 
 	- Practical Cybersecurity Architecture: A guide to creating and implementing robust designs for cybersecurity architects - https://www.amazon.com/Practical-Cybersecurity-Architecture-implementing-cybersecurity/dp/1838989927/ref=sr_1_2_sspa?crid=W859K4NEI7UQ&keywords=network+security+packt&qid=1685649033&s=books&sprefix=network+security+packt%2Cstripbooks%2C100&sr=1-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyRjIxNVNVUUxXWFFTJmVuY3J5cHRlZElkPUEwMjMwODkzMUJQRVJNVVc1MlYySiZlbmNyeXB0ZWRBZElkPUEwMzYzOTY4M1RIOUQ5WjY1TktNSSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=
