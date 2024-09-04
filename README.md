@@ -194,6 +194,7 @@ Recommended Reading - This contains a "live" list of recommended/curated books t
 	
 ## Basics
 	
+- [Applied Cryptography: Protocols, Algorithms and Source Code in C](https://www.amazon.com/Applied-Cryptography-Protocols-Algorithms-Source/dp/1119096723/ref=sr_1_1?crid=3Q2FZ02LZWYA7&dib=eyJ2IjoiMSJ9.Mikrz8451MnAeTgeIQPSJftfZXoJXtXgUvp2VhZmMvAQbUjnO94ifXId4KqakvKYQttB7xturDAKGhkDW9EolQ1g3j6WoOGURo-f2JiZ_uvJtH-7eUdAPbERDXtuLavxEbUPZR1VfPzaK21BlYqHquxWtsJQBVqPmJbLiLSXWR98Fb_lGy9LziTI8-ePbvhgiD-Q7-teKCaUioPmFVFs7f2NjQTqZejyIsBjU2XQ9fU.at7vXqyoVUSTVYKuypBM05vXdcZasQE4EfSwhLUXnLA&dib_tag=se&keywords=applied+cryptography&qid=1725454362&sprefix=applied+crypt%2Caps%2C92&sr=8-1)
 - [Cryptography Algorithms: Explore New Algorithms in Zero-knowledge, Homomorphic Encryption, and Quantum Cryptography](https://www.amazon.com/Cryptography-Algorithms-Zero-knowledge-Homomorphic-Encryption/dp/1835080030/ref=sr_1_2?crid=TNRFPDKJPOJH&dib=eyJ2IjoiMSJ9.z9egqrPiU9d32LiVXxY1abVCLre_mcdpWrmq3uMoo7DotH2rjR4tGPRS5m3Bk_hvH7vjPOC8lLg8x-SbFVIkAw1zyikGdLc3caSHzWPj6k0AcJ8LGUXeSywp4h-nMz-qWbMe_riHOT01CN8z2Z0mC18jxrQCOwboGn_u9SrPLla6geAlyCzD5wVb9F4KYbx2ePdVhKViaZmGIciBOI3VYECHgfQ3L877TWYg8kE0OgdYaUrIeHfvxkdvsb5qsp1JwvOXPyrc16ieMMWlUayh-MyjWuanivpaCzbQVlAioU4.0W56K-pbpG7jWP9rH6dtvHrQMi2rTMx_R2eX5I6GpMg&dib_tag=se&keywords=cryptography+algorithms&qid=1723556731&sprefix=cryptography+algorithms+%2Caps%2C249&sr=8-2)
 - [Computer Security Handbook, Set (Volume 1 and 2) 6th Edition](https://www.amazon.com/Computer-Security-Handbook-Seymour-Bosworth/dp/1118127064)
 	
