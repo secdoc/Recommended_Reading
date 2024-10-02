@@ -343,6 +343,8 @@ Security:
 	- The Complete Metasploit Guide: Explore effective penetration testing techniques with Metasploit - https://www.amazon.com/Complete-Metasploit-Guide-penetration-techniques-ebook/dp/B07TNPLWX6/ref=sr_1_1?crid=YJNOF4BKZEU4&keywords=the+complete+metasploit+guide&qid=1691331930&sprefix=the+complete+metasploit+guide%2Caps%2C94&sr=8-1
 	
 	- Basic Security Testing with Kali Linux, Fourth Edition - https://www.amazon.com/Basic-Security-Testing-Linux-Fourth/dp/B0C47PXVDJ/ref=sr_1_1?crid=5RDW1BB4FWYI&keywords=basic+security+testing+with+kali+linux&qid=1691332335&sprefix=basic+security+tes%2Caps%2C102&sr=8-1
+
+	- Nmap Network Exploration and Security Auditing Cookbook - Third Edition - https://www.amazon.com/Network-Exploration-Security-Auditing-Cookbook/dp/1838649352/ref=sr_1_1?crid=3ALXSFGZ5G6BB&dib=eyJ2IjoiMSJ9.dOW7DkVjk1miCFnxtjSBVL3lavEraFD10SGu3YE8hcXGjHj071QN20LucGBJIEps.3FTg36NGcbW9wHKbLplfQdjyPwY7Ma59rYvQzl-0Xvw&dib_tag=se&keywords=nmap+network+exploration+and+security+auditing+cookbook&qid=1727907694&sprefix=nmap+network%2Caps%2C111&sr=8-1
 	
 	- Nmap Network Scanning: The Official Nmap Project Guide to Network Discovery and Security Scanning - https://www.amazon.com/Nmap-Network-Scanning-Official-Discovery/dp/0979958717/ref=sr_1_1?crid=3343XU8STOHYT&keywords=nmap+network+scanning&qid=1691331982&sprefix=nmap+network%2Caps%2C85&sr=8-1
 	
