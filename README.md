@@ -230,6 +230,8 @@ Recommended Reading - This contains a "live" list of recommended/curated books t
 	
 - [Reconnaissance for Ethical Hackers: Focus on the starting point of data breaches and explore essential steps for successful pentesting](https://www.amazon.com/Reconnaissance-Ethical-Hackers-successful-pentesting/dp/1837630631/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1691331359&sr=8-1)
 
+- [The Ultimate Kali Linux Book - Third Edition](https://www.amazon.com/Ultimate-Kali-Linux-Book-cutting-edge/dp/1835085806/ref=sr_1_2_sspa?crid=3GSH97FORW6RV&dib=eyJ2IjoiMSJ9.AprUNtcdz3StPP1LsBYjQf_X8a6VG5zOBXC76U6ac8vGjHj071QN20LucGBJIEps.cbFhIzYQ45CJsprH8bWeM7t7_kvx4oe3bhhxnUzVrFc&dib_tag=se&keywords=the+ultimate+kali+linux+book%2C+third+edition%2C+2024&qid=1728478365&sprefix=the+ultimate+kali+lin%2Caps%2C112&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
+
 - [Hacking and Security: The Comprehensive Guide to Penetration Testing and Cybersecurity (Rheinwerk Computing)](https://www.amazon.com/dp/1493224255?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 
 - [The Art of Social Engineering: Uncover the secrets behind the human dynamics in cybersecurity](https://www.amazon.com/dp/1804613649?psc=1&ref=ppx_yo2ov_dt_b_product_details)
