@@ -316,7 +316,9 @@ Security:
 
 	- Mastering Defensive Security - https://www.amazon.com/gp/product/1800208162/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1
 
-	- - Security Engineering: A Guide to Building Dependable Distributed Systems 3rd Edition - https://www.amazon.com/dp/1119642787?psc=1&ref=ppx_yo2ov_dt_b_product_details
+	- Security Engineering: A Guide to Building Dependable Distributed Systems 3rd Edition - https://www.amazon.com/dp/1119642787?psc=1&ref=ppx_yo2ov_dt_b_product_details
+
+	- Endpoint Detection and Response Essentials: Explore the landscape of hacking, defense, and deployment in EDR - https://www.amazon.com/Endpoint-Detection-Response-Essentials-deployment/dp/1835463266/ref=sr_1_3_sspa?crid=1ZA2I0M1NB3AG&dib=eyJ2IjoiMSJ9.NMCxgdrP9Kiz-d_RQocSu0k5F2EJDvBo9m1NBgIEMdPGjHj071QN20LucGBJIEps.EFl17euXF5ysKBsvqmnIu-EaLzrSAn3jVOCO_mHrnyg&dib_tag=se&keywords=endpoint+detection+and+response+essentials&qid=1729803102&sprefix=endpoint+%2Caps%2C127&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
 	
 	Bug Bounty:
 	
