@@ -23,6 +23,8 @@ www.amazon.com
 www.amazon.com
 /Business-Research-Methods-Pamela-Schindler/dp/1260733726/ref=sr_1_6?crid=3A6M539ZBBNU5&keywords=business+research+methods&qid=1691353510&sprefix=business+reasearch+methods%2Caps%2C108&sr=8-6
 
+ - Extreme Ownership: How U.S. Navy SEALs Lead and Win - https://www.amazon.com/dp/1250067057
+
 Networking:
 
  - IP SUBNETTING FOR BEGINNERS: NOVICE TO PRO GUIDE TO UNDERSTANDING SUBNETTING WITH STEP BY STEP GUIDE AND DIAGRAMS - https://
@@ -97,7 +99,7 @@ www.amazon.com
 www.amazon.com
 /Software-Developers-Guide-Linux-no-nonsense/dp/1804616923/ref=sr_1_1?crid=365B75C7CLRTF&keywords=The+Software+Developer%E2%80%99s+Guide+to+Linux&qid=1705595253&sprefix=the+software+developers+guide+to+linux%2Caps%2C89&sr=8-1
 
-	- OPNsense Beginner to Professional: Protect networks and build next-generation firewalls easily with OPNsense - https://
+	- OPNsense Beginner to Professional: Protect networks and build next-generation fihttps://www.amazon.com/dp/1250067057rewalls easily with OPNsense - https://
 www.amazon.com
 /gp/product/1801816875/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1
 
@@ -289,6 +291,8 @@ Security:
 	AI
 
 	 - ChatGPT for Cybersecurity Cookbook: Learn practical generative AI recipes to supercharge your cybersecurity skills - https://www.amazon.com/ChatGPT-Cybersecurity-Cookbook-generative-supercharge/dp/1805124048/ref=cm_cr_arp_d_product_top?ie=UTF8
+
+	 - Artificial Intelligence for Cybersecurity: Develop AI approaches to solve cybersecurity problems in your organization - https://packt.link/gSzXm
 	
 	Architecture:
 	
