@@ -36,6 +36,8 @@ Recommended Reading - This contains a "live" list of recommended/curated books t
 
 - [Business Research Methods 14th Edition](https://www.amazon.com/Business-Research-Methods-Pamela-Schindler/dp/1260733726/ref=sr_1_6?crid=3A6M539ZBBNU5&keywords=business+research+methods&qid=1691353510&sprefix=business+reasearch+methods%2Caps%2C108&sr=8-6)
 
+- [Extreme Ownership: How U.S. Navy SEALs Lead and Win](https://www.amazon.com/dp/1250067057)
+
 # Networking:
 
 - [IP SUBNETTING FOR BEGINNERS: NOVICE TO PRO GUIDE TO UNDERSTANDING SUBNETTING WITH STEP BY STEP GUIDE AND DIAGRAMS](https://www.amazon.com/IP-SUBNETTING-BEGINNERS-UNDERSTANDING-DIAGRAMS/dp/1674590288/ref=sr_1_1?crid=4B36MCZ0KV9W&keywords=ip+subnetting+for+beginners&qid=1685649247&s=books&sprefix=ip+subnetting+for+beginners%2Cstripbooks%2C91&sr=1-1sim)
@@ -58,7 +60,7 @@ Recommended Reading - This contains a "live" list of recommended/curated books t
 
 - [The Linux Command Line, 2nd Edition: A Complete Introduction](https://www.amazon.com/Linux-Command-Line-2nd-Introduction/dp/1593279523/ref=sr_1_1?crid=3US1KO8SKW9DO&keywords=The+Linux+Command+Line&qid=1669167285&sprefix=the+linux+command+line%2Caps%2C102&sr=8-1)
 
-- [Efficient Linux at the Command Line: Boost Your Command-Line Skills](https://www.amazon.com/Efficient-Linux-Command-Line-Command-Line/dp/1098113403/ref=sr_1_1?crid=XLG4TP96OMHB&dib=eyJ2IjoiMSJ9.aUl2NgCenBPp4Qc69HK51LA7uTV0iaRFBnf8auV55M2kbd2aekQmD40my_p3DN2Um-Vv15-4fz2L-0o70mA2HjyY_89BpH7eRBWpJIiIOCeRS_iKdTe6F5sQn16csyHWez65hfYvG_hXur-Q7Sp7m0wM1bGeG1d4HOVVH4zOB7m8xSA4b5X5qNeUhl02BT5-MdPhTx1Ptmin6vvbBhzELv3d6e1AJJ2ic5m8bORp5Qc.XS1-GSln7eZaT_OmAyLWK7uZWjaTKXlxbsrt5AyDtk&dib_tag=se&keywords=efficient+linux+at+the+command+line+boost+your+command-line+skills&qid=1713391642&sprefix=efficient+linux+%2Caps%2C86&sr=8-1)
+- [Efficient Linux at the Command Line: Boost Your Command-Line Skills](https://www.amazon.com/Efficient-Linux-Command-Line-Command-Line/dp/1098113403/ref=sr_1_1?crid=XLG4TP96OMHB&dib=eyJ2IjoiMSJ9.aUl2NgCenBPp4Qc69HK51LA7uTV0iaRFBnf8auV55M2kbd2aekQmD40my_p3DN2Um-Vv15-4fz2L-0o70mA2HjyY_89BpH7eRBWpJIiIOCeRS_iKdTe6F5sQn16csyHWez65hfYvG_hXur-Q7Sp7m0wM1bGeG1d4HOVVH4zOB7m8xSA4b5X5qNeUhl02BT5-MdPhTx1Ptmin6vvbBhzELv3d6e1AJJ2ic5m8bORp5Qc.XS1-GSln7eZaT_OmAyLWK7uZWjaTKXlxbsrt5AyDtk&dib_tag=se&kArtificial Intelligence for Cybersecurity: Develop AI approaches to solve cybersecurity problems in your organization eywords=efficient+linux+at+the+command+line+boost+your+command-line+skills&qid=1713391642&sprefix=efficient+linux+%2Caps%2C86&sr=8-1)
 
 - [Linux Kernel Programming - Second Edition: A comprehensive and practical guide to kernel internals, writing modules, and kernel synchronization](https://www.amazon.com/Linux-Kernel-Programming-practical-synchronization/dp/1803232226/ref=sr_1_1?crid=3CELUE1O7I0B6&dib=eyJ2IjoiMSJ9.xuo2CD5RhzCTkZ18XxmMS5CsISX7gWfH7bPuF8ALQp9xWwuH864zGn0IsUA71I-YL-7vA69f33vgkZRAJekDKtHoVeX8HyMO2Kj2haFO1Dxm_BTokdYOjs0GULQMG9I2jVs5S7e1O6Jc25kUzWKQesgsjblvWu7PIyvkG24OwWs_iz2PFRnHd4JRCpUSBtYC3RybLlNp3U8lHV8f0re0CRdTtsq1RUJV-oGXyqxy6zI.9I0RROWRuTQEtWP2-pv7Bmx_Fn5HajhEZ139euNFHl0&dib_tag=se&keywords=Linux+Kernel+Programming+-+Second+Edition&qid=1711370141&sprefix=linux+kernel+programming+-+second+edition%2Caps%2C82&sr=8-1)
 
@@ -106,7 +108,7 @@ Recommended Reading - This contains a "live" list of recommended/curated books t
 	
 ## Go
 	
-- [Black Hat Go: Go Programming For Hackers and Pentesters](https://www.amazon.com/Black-Hat-Go-Programming-Pentesters/dp/1593278659?crid=2GWT4BZK23QLK&keywords=black+hat+go&qid=1703617340&sprefix=black+hat+go,aps,372&sr=8-1&linkCode=sl1&tag=networkexpe08-20&linkId=0bce7cc77588ad03d16ace39ed1ae98c&language=en_US&ref_=as_li_ss_tl)
+- [Black Hat Go: Go Programming For Hackers and PentesArtificial Intelligence for Cybersecurity: Develop AI approaches to solve cybersecurity problems in your organization ters](https://www.amazon.com/Black-Hat-Go-Programming-Pentesters/dp/1593278659?crid=2GWT4BZK23QLK&keywords=black+hat+go&qid=1703617340&sprefix=black+hat+go,aps,372&sr=8-1&linkCode=sl1&tag=networkexpe08-20&linkId=0bce7cc77588ad03d16ace39ed1ae98c&language=en_US&ref_=as_li_ss_tl)
 	
 ## Perl
 	
@@ -185,6 +187,8 @@ Recommended Reading - This contains a "live" list of recommended/curated books t
 ## AI
 
  - [ChatGPT for Cybersecurity Cookbook: Learn practical generative AI recipes to supercharge your cybersecurity skills](https://www.amazon.com/ChatGPT-Cybersecurity-Cookbook-generative-supercharge/dp/1805124048/ref=cm_cr_arp_d_product_top?ie=UTF8)
+
+ - [Artificial Intelligence for Cybersecurity: Develop AI approaches to solve cybersecurity problems in your organization](https://packt.link/gSzXm)
    
 ## Architecture
 	
