@@ -304,7 +304,6 @@ Recommended Reading - This contains a "live" list of recommended/curated books t
 
 - [SOC Analyst Career Guide: Become highly skilled in security tools, tactics, and techniques to jumpstart your SOC analyst career](https://www.amazon.com/dp/1835467466?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_11)
 
-- 
 - [Ten Strategies of a World-Class Cybersecurity Operations Center](https://www.amazon.com/Strategies-World-Class-Cybersecurity-Operations-Center/dp/0692243100/ref=sr_1_1?crid=17MNEGQV2ABUO&keywords=ten+strategies+of+a+world+class+cybersecurity+operations&qid=1691331702&sprefix=ten+strategies+of+a+world+class+cybersecurity+operations%2Caps%2C92&sr=8-1)
 	
 - [Digital Forensics and Incident Response: Incident response tools and techniques for effective cyber threat response, 3rd Edition 3rd ed. Edition](https://www.amazon.com/Digital-Forensics-Incident-Response-techniques/dp/1803238674/ref=sr_1_1?crid=3H1P6NBA1RQDD&keywords=digital+forensics+and+incident+response&qid=1691331790&sprefix=Digital+forensics%2Caps%2C98&sr=8-1)
