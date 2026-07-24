@@ -58,6 +58,8 @@ Recommended Reading - This contains a "live" list of recommended/curated books t
 
 - [Linux Basics for Hackers: Getting Started with Networking, Scripting, and Security in Kali](https://www.amazon.com/Linux-Basics-Hackers-Networking-Scripting/dp/1593278551/ref=sr_1_1?crid=3F2F2W0Y9HCP2&keywords=linux+basics+for+hackers&qid=1669167211&sprefix=linux+%2Caps%2C96&sr=8-1)
 
+- [The Linux Desktop Guide](https://www.amazon.com/dp/B0H2YNG9DR?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1)
+
 - [The Linux Command Line, 2nd Edition: A Complete Introduction](https://www.amazon.com/Linux-Command-Line-2nd-Introduction/dp/1593279523/ref=sr_1_1?crid=3US1KO8SKW9DO&keywords=The+Linux+Command+Line&qid=1669167285&sprefix=the+linux+command+line%2Caps%2C102&sr=8-1)
 
 - [Efficient Linux at the Command Line: Boost Your Command-Line Skills](https://www.amazon.com/Efficient-Linux-Command-Line-Command-Line/dp/1098113403/ref=sr_1_1?crid=XLG4TP96OMHB&dib=eyJ2IjoiMSJ9.aUl2NgCenBPp4Qc69HK51LA7uTV0iaRFBnf8auV55M2kbd2aekQmD40my_p3DN2Um-Vv15-4fz2L-0o70mA2HjyY_89BpH7eRBWpJIiIOCeRS_iKdTe6F5sQn16csyHWez65hfYvG_hXur-Q7Sp7m0wM1bGeG1d4HOVVH4zOB7m8xSA4b5X5qNeUhl02BT5-MdPhTx1Ptmin6vvbBhzELv3d6e1AJJ2ic5m8bORp5Qc.XS1-GSln7eZaT_OmAyLWK7uZWjaTKXlxbsrt5AyDtk&dib_tag=se&k)
@@ -186,6 +188,14 @@ Recommended Reading - This contains a "live" list of recommended/curated books t
 	
 ## AI
 
+ - [Agentic Coding with Claude Code: The everyday developer's guide to agentic coding with Claude Code](https://www.amazon.com/dp/1806022591?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_2)
+ 
+ - [Agentic AI for Offensive Cybersecurity: Build and automate smarter penetration testing workflows using AI-driven agents](https://www.amazon.com/dp/180611447X?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_2)
+
+ - [30 Agents Every AI Engineer Must Build: Build production-ready agent systems using proven architectures and patterns](https://www.amazon.com/dp/1806109018?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_2)
+
+ - [Design Multi-Agent AI Systems Using MCP and A2A: Engineer your own Python-based agentic AI framework with tool use, memory, and multi-agent workflows](https://www.amazon.com/dp/1806116472?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_2)
+ 
  - [ChatGPT for Cybersecurity Cookbook: Learn practical generative AI recipes to supercharge your cybersecurity skills](https://www.amazon.com/ChatGPT-Cybersecurity-Cookbook-generative-supercharge/dp/1805124048/ref=cm_cr_arp_d_product_top?ie=UTF8)
 
  - [Artificial Intelligence for Cybersecurity: Develop AI approaches to solve cybersecurity problems in your organization](https://packt.link/gSzXm)
@@ -201,7 +211,15 @@ Recommended Reading - This contains a "live" list of recommended/curated books t
 ## Basics
 	
 - [Applied Cryptography: Protocols, Algorithms and Source Code in C](https://www.amazon.com/Applied-Cryptography-Protocols-Algorithms-Source/dp/1119096723/ref=sr_1_1?crid=3Q2FZ02LZWYA7&dib=eyJ2IjoiMSJ9.Mikrz8451MnAeTgeIQPSJftfZXoJXtXgUvp2VhZmMvAQbUjnO94ifXId4KqakvKYQttB7xturDAKGhkDW9EolQ1g3j6WoOGURo-f2JiZ_uvJtH-7eUdAPbERDXtuLavxEbUPZR1VfPzaK21BlYqHquxWtsJQBVqPmJbLiLSXWR98Fb_lGy9LziTI8-ePbvhgiD-Q7-teKCaUioPmFVFs7f2NjQTqZejyIsBjU2XQ9fU.at7vXqyoVUSTVYKuypBM05vXdcZasQE4EfSwhLUXnLA&dib_tag=se&keywords=applied+cryptography&qid=1725454362&sprefix=applied+crypt%2Caps%2C92&sr=8-1)
+
+- [AWS Certified Solutions Architect Associate All-in-One Exam Guide, Second Edition (Exam SAA-C02)](https://www.amazon.com/dp/1260470180?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_22)
+
+- [AWS Certified Cloud Practitioner Study Guide With 500 Practice Test Questions: Foundational (CLF-C02) Exam (Sybex Study Guide)](https://www.amazon.com/dp/1394235631?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_23)
+
+- [AWS Certified Security – Specialty (SCS-C02) Exam Guide: Get all the guidance you need to pass the AWS (SCS-C02) exam on your first attempt](https://www.amazon.com/dp/1837633983?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_24)
+
 - [Cryptography Algorithms: Explore New Algorithms in Zero-knowledge, Homomorphic Encryption, and Quantum Cryptography](https://www.amazon.com/Cryptography-Algorithms-Zero-knowledge-Homomorphic-Encryption/dp/1835080030/ref=sr_1_2?crid=TNRFPDKJPOJH&dib=eyJ2IjoiMSJ9.z9egqrPiU9d32LiVXxY1abVCLre_mcdpWrmq3uMoo7DotH2rjR4tGPRS5m3Bk_hvH7vjPOC8lLg8x-SbFVIkAw1zyikGdLc3caSHzWPj6k0AcJ8LGUXeSywp4h-nMz-qWbMe_riHOT01CN8z2Z0mC18jxrQCOwboGn_u9SrPLla6geAlyCzD5wVb9F4KYbx2ePdVhKViaZmGIciBOI3VYECHgfQ3L877TWYg8kE0OgdYaUrIeHfvxkdvsb5qsp1JwvOXPyrc16ieMMWlUayh-MyjWuanivpaCzbQVlAioU4.0W56K-pbpG7jWP9rH6dtvHrQMi2rTMx_R2eX5I6GpMg&dib_tag=se&keywords=cryptography+algorithms&qid=1723556731&sprefix=cryptography+algorithms+%2Caps%2C249&sr=8-2)
+
 - [Computer Security Handbook, Set (Volume 1 and 2) 6th Edition](https://www.amazon.com/Computer-Security-Handbook-Seymour-Bosworth/dp/1118127064)
 	
 - [CISSP All-in-One Exam Guide, Ninth Edition](https://www.amazon.com/CISSP-All-One-Guide-Ninth/dp/1260467376/ref=sr_1_1?crid=12E6NH50FG4QA&keywords=shon+harris+cissp&qid=1685654957&sprefix=shon+harris+cissp%2Caps%2C100&sr=8-1&ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc)
@@ -282,6 +300,11 @@ Recommended Reading - This contains a "live" list of recommended/curated books t
 	
 ## SOC-DFIR
 	
+- [Advanced Cyber Threat Intelligence and Hunting: Detect APTs and zero-day attacks using CTI, behavioral analytics, and AI techniques](https://www.amazon.com/dp/1806380390?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_6)
+
+- [SOC Analyst Career Guide: Become highly skilled in security tools, tactics, and techniques to jumpstart your SOC analyst career](https://www.amazon.com/dp/1835467466?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_11)
+
+- 
 - [Ten Strategies of a World-Class Cybersecurity Operations Center](https://www.amazon.com/Strategies-World-Class-Cybersecurity-Operations-Center/dp/0692243100/ref=sr_1_1?crid=17MNEGQV2ABUO&keywords=ten+strategies+of+a+world+class+cybersecurity+operations&qid=1691331702&sprefix=ten+strategies+of+a+world+class+cybersecurity+operations%2Caps%2C92&sr=8-1)
 	
 - [Digital Forensics and Incident Response: Incident response tools and techniques for effective cyber threat response, 3rd Edition 3rd ed. Edition](https://www.amazon.com/Digital-Forensics-Incident-Response-techniques/dp/1803238674/ref=sr_1_1?crid=3H1P6NBA1RQDD&keywords=digital+forensics+and+incident+response&qid=1691331790&sprefix=Digital+forensics%2Caps%2C98&sr=8-1)
