@@ -201,8 +201,8 @@ Recommended Reading - This contains a "live" list of recommended/curated books t
  - [Artificial Intelligence for Cybersecurity: Develop AI approaches to solve cybersecurity problems in your organization](https://packt.link/gSzXm)
    
 ## Architecture
-	
--[Cybersecurity Architect's Handbook: An architect's guide to designing, building, and defending the modern enterprise Second Edition](https://www.amazon.com/Cybersecurity-Architects-Handbook-architects-enterprise/dp/180610539X/ref=tmm_pap_swatch_0)
+
+- [Cybersecurity Architect's Handbook: An architect's guide to designing, building, and defending the modern enterprise Second Edition](https://www.amazon.com/Cybersecurity-Architects-Handbook-architects-enterprise/dp/180610539X/ref=tmm_pap_swatch_0)
 
 - [Cybersecurity Architect's Handbook: A holistic approach to implementing and maintaining security architecture](https://www.amazon.com/dp/B0B68XXCV1)
 
