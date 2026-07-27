@@ -86,6 +86,8 @@ Recommended Reading - This contains a "live" list of recommended/curated books t
 
 - [Mastering pfSense: Manage, secure, and monitor your on-premise and cloud network with pfSense 2.4, 2nd Edition](https://www.amazon.com/dp/1788993179?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 
+- [The Ultimate Ubuntu Handbook: A complete guide to Ubuntu 24.04, from installation to advanced security and development](https://www.amazon.com/Ultimate-Ubuntu-Handbook-24-04-installation/dp/183546520X/ref=sr_1_1?crid=34QJTOLSF1G48&dib=eyJ2IjoiMSJ9.woJU82CkdKq4yZTDxbOSYf09_ixupO8FGluuw55v6iice8rb42J2KlMNX6yHQ8cAXXA9GIfqaMAHv2ARNouql61bzvcp6qtxbIjlLqVLUHrEaZEaZH0-QKF-ky9fKnMc9hq0SDWhQ4TDtd0Y7EsyP1ECUeTSkePCE7m6q7oeHl0PUz9k-4pA-VSQHvfv2DxrE70cloqEvL_9_iOVcxhNOHD7wG7toCtQFYbl_k8WoXc.cwOEc6rK-N3K-x2fDLhcN6cU9SmpIc4Bg9OSQ816wVM&dib_tag=se&keywords=The%2BUltimate%2BUbuntu%2BHandbook&qid=1785157947&sprefix=the%2Bultimate%2Bubuntu%2Bhandbook%2Caps%2C189&sr=8-1)
+
 ## Windows
 
 - [Mastering Windows Server 2022: Comprehensive administration of your Windows Server environment, 4th Edition](https://www.amazon.com/Mastering-Windows-Server-2022-administration/dp/1837634505/ref=sr_1_15?crid=2QH1WANPVG023&keywords=packt+windows+server&qid=1685648773&s=books&sprefix=packt+windows+server%2Cstripbooks%2C90&sr=1-15)
