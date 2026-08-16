@@ -319,3 +319,12 @@ Recommended Reading - This contains a "live" list of recommended/curated books t
 
 
 
+
+## License
+
+Dual-licensed, **attribution required** under both:
+
+- **Code & configuration** (scripts, rules, decoders, pipelines, configs): [Apache License 2.0](LICENSE)
+- **Docs, guides & diagrams** (README, docs, diagrams): [CC BY 4.0](LICENSE-docs)
+
+See [`LICENSING.md`](LICENSING.md) and [`NOTICE`](NOTICE). Credit: Lester E. Nichols III, secdoc.tech.
