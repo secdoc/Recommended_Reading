@@ -2,6 +2,8 @@
 
 Recommended Reading - This contains a "live" list of recommended/curated books to read or have as part of a library with links to obtain the books. The list is updated as new recommendations are made.
 
+Amazon availability and formats can change. New Amazon links use canonical product URLs without tracking parameters.
+
 ### Contents:
  - [Organizational](#organizational)
  - [Networking](#networking)
@@ -38,6 +40,8 @@ Recommended Reading - This contains a "live" list of recommended/curated books t
 
 - [Extreme Ownership: How U.S. Navy SEALs Lead and Win](https://www.amazon.com/dp/1250067057)
 
+- [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://www.amazon.com/dp/1942788819)
+
 # Networking:
 
 - [IP SUBNETTING FOR BEGINNERS: NOVICE TO PRO GUIDE TO UNDERSTANDING SUBNETTING WITH STEP BY STEP GUIDE AND DIAGRAMS](https://www.amazon.com/IP-SUBNETTING-BEGINNERS-UNDERSTANDING-DIAGRAMS/dp/1674590288/ref=sr_1_1?crid=4B36MCZ0KV9W&keywords=ip+subnetting+for+beginners&qid=1685649247&s=books&sprefix=ip+subnetting+for+beginners%2Cstripbooks%2C91&sr=1-1sim)
@@ -51,6 +55,8 @@ Recommended Reading - This contains a "live" list of recommended/curated books t
 - [CompTIA Network+ N10-008 Certification Guide: The ultimate guide to passing the N10-008 exam, 2nd Edition](https://www.amazon.com/CompTIA-Network-N10-008-Certification-Guide/dp/180323606X/ref=sr_1_1?crid=3TMI2SUKO00XR&keywords=CompTIA+Network%2B+N10-008+Certification+Guide&qid=1690814288&sprefix=comptia+network%2B+n10-008+certification+guide+%2Caps%2C81&sr=8-1)
 
 - [Learn Wireshark: A definitive guide to expertly analyzing protocols and troubleshooting networks using Wireshark, 2nd Edition](https://a.co/d/dFzYBgl)
+
+- [Practical Packet Analysis, 3rd Edition: Using Wireshark to Solve Real-World Network Problems](https://www.amazon.com/dp/1593278020)
 
 # Operating Systems:
 
@@ -88,6 +94,8 @@ Recommended Reading - This contains a "live" list of recommended/curated books t
 
 - [The Ultimate Ubuntu Handbook: A complete guide to Ubuntu 24.04, from installation to advanced security and development](https://www.amazon.com/Ultimate-Ubuntu-Handbook-24-04-installation/dp/183546520X/ref=sr_1_1?crid=34QJTOLSF1G48&dib=eyJ2IjoiMSJ9.woJU82CkdKq4yZTDxbOSYf09_ixupO8FGluuw55v6iice8rb42J2KlMNX6yHQ8cAXXA9GIfqaMAHv2ARNouql61bzvcp6qtxbIjlLqVLUHrEaZEaZH0-QKF-ky9fKnMc9hq0SDWhQ4TDtd0Y7EsyP1ECUeTSkePCE7m6q7oeHl0PUz9k-4pA-VSQHvfv2DxrE70cloqEvL_9_iOVcxhNOHD7wG7toCtQFYbl_k8WoXc.cwOEc6rK-N3K-x2fDLhcN6cU9SmpIc4Bg9OSQ816wVM&dib_tag=se&keywords=The%2BUltimate%2BUbuntu%2BHandbook&qid=1785157947&sprefix=the%2Bultimate%2Bubuntu%2Bhandbook%2Caps%2C189&sr=8-1)
 
+- [How Linux Works, 3rd Edition: What Every Superuser Should Know](https://www.amazon.com/dp/1718500408)
+
 ## Windows
 
 - [Mastering Windows Server 2022: Comprehensive administration of your Windows Server environment, 4th Edition](https://www.amazon.com/Mastering-Windows-Server-2022-administration/dp/1837634505/ref=sr_1_15?crid=2QH1WANPVG023&keywords=packt+windows+server&qid=1685648773&s=books&sprefix=packt+windows+server%2Cstripbooks%2C90&sr=1-15)
@@ -100,6 +108,8 @@ Recommended Reading - This contains a "live" list of recommended/curated books t
 
 - [Windows Forensics Analyst Field Guide: Engage in proactive cyber defense using digital forensics techniques](https://www.amazon.com/Windows-Forensics-Analyst-Field-Guide/dp/1803248475/ref=sr_1_1?crid=3M84KCYT0V833&keywords=windows+forensics+analyst+field+guide&qid=1701871987&sprefix=Windows+Fore%2Caps%2C112&sr=8-1)
 
+- [Windows Internals, Part 1, 7th Edition: System architecture, processes, threads, memory management, and more](https://www.amazon.com/dp/0735684189)
+
 # Development:
 
 ## Bash
@@ -109,18 +119,26 @@ Recommended Reading - This contains a "live" list of recommended/curated books t
 - [Black Hat Bash](https://nostarch.com/black-hat-bash)
 
 - [Mastering Linux Shell Scripting Second Edition: A practical guide to Linux command-line and shell scripting 2nd edition](https://www.amazon.com/gp/product/1788990552/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
+
+- [bash Cookbook, 2nd Edition: Solutions and Examples for bash Users](https://www.amazon.com/dp/1491975334)
 	
 ## Go
 	
-- [Black Hat Go: Go Programming For Hackers and PentesArtificial Intelligence for Cybersecurity: Develop AI approaches to solve cybersecurity problems in your organization ters](https://www.amazon.com/Black-Hat-Go-Programming-Pentesters/dp/1593278659?crid=2GWT4BZK23QLK&keywords=black+hat+go&qid=1703617340&sprefix=black+hat+go,aps,372&sr=8-1&linkCode=sl1&tag=networkexpe08-20&linkId=0bce7cc77588ad03d16ace39ed1ae98c&language=en_US&ref_=as_li_ss_tl)
+- [Black Hat Go: Go Programming for Hackers and Pentesters](https://www.amazon.com/Black-Hat-Go-Programming-Pentesters/dp/1593278659?crid=2GWT4BZK23QLK&keywords=black+hat+go&qid=1703617340&sprefix=black+hat+go,aps,372&sr=8-1&linkCode=sl1&tag=networkexpe08-20&linkId=0bce7cc77588ad03d16ace39ed1ae98c&language=en_US&ref_=as_li_ss_tl)
+
+- [Learning Go, 2nd Edition: An Idiomatic Approach to Real-World Go Programming](https://www.amazon.com/dp/1098139291)
 	
 ## Perl
 	
 - [Perl Scripting for Windows Security: Live Response, Forensic Analysis, and Monitoring 1st Edition](https://www.amazon.com/Perl-Scripting-Windows-Security-Monitoring/dp/159749173X)
+
+- [Learning Perl, 8th Edition: Making Easy Things Easy and Hard Things Possible](https://www.amazon.com/dp/1492094951)
 	
 ## Powershell
 	
 - [Mastering PowerShell Scripting - Fifth Edition: Automate repetitive tasks and simplify complex administrative tasks using PowerShell](https://www.amazon.com/Mastering-PowerShell-Scripting-repetitive-administrative-dp-1805120271/dp/1805120271/ref=dp_ob_title_bk)
+
+- [PowerShell Cookbook, 4th Edition: Your Complete Guide to Scripting the Ubiquitous Object-Based Shell](https://www.amazon.com/dp/109810160X)
 
 ## Python
 	
@@ -169,12 +187,16 @@ Recommended Reading - This contains a "live" list of recommended/curated books t
 - [Expert Python Programming: Master Python by learning the best coding practices and advanced programming concepts](https://www.amazon.com/Expert-Python-Programming-practices-programming/dp/1801071101/ref=sr_1_1?crid=TICQP6RWABK6&keywords=Expert+Python+Programming&qid=1704908460&sprefix=expert+python+programming%2Caps%2C80&sr=8-1)
 	
 - [Python GUI Programming with Tkinter: Design and build functional and user-friendly GUI applications](https://www.amazon.com/Python-GUI-Programming-Tkinter-user-friendly/dp/1801815925/ref=sr_1_1?crid=26B7PBIQP0M3&keywords=Python+GUI+programming+with+Tkinter&qid=1704908492&sprefix=python+gui+programming+with+tkinter+%2Caps%2C102&sr=8-1)
+
+- [Fluent Python, 2nd Edition: Clear, Concise, and Effective Programming](https://www.amazon.com/dp/1492056359)
 	
 ## Misc
 	
 - [Threat Modeling: Designing for Security](https://www.amazon.com/Threat-Modeling-Designing-Adam-Shostack/dp/1118809998/ref=sr_1_3?crid=99FZJMHIJ9VF&keywords=threat+modeling&qid=1691331850&sprefix=threat+modeling%2Caps%2C98&sr=8-3)
 
 - [Container Security: Fundamental Technology Concepts that Protect Containerized Applications](https://www.amazon.com/Container-Security-Fundamental-Containerized-Applications/dp/1492056707/ref=sr_1_3?crid=EA7H29QYX2DU&keywords=container+security&qid=1691332034&sprefix=container+sec%2Caps%2C100&sr=8-3)
+
+- [Designing Data-Intensive Applications, 2nd Edition: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com/dp/1098119061)
 
 # Security:
 
@@ -187,6 +209,8 @@ Recommended Reading - This contains a "live" list of recommended/curated books t
 - [Breaking into Information Security: Learning the Ropes 101](https://www.amazon.com/Breaking-into-Information-Security-Learning-ebook/dp/B0BRDDZQTG?crid=2EYM59JVXZ1J6&keywords=breaking+into+information+security&qid=1703617507&sprefix=breaking+into+inform,aps,378&sr=8-1&linkCode=sl1&tag=networkexpe08-20&linkId=944d2fdd655218d5cf6e929029e7cf3e&language=en_US&ref_=as_li_ss_tl)
 	
 - [Expanding Your Security Horizons: Learning The Ropes 102](https://www.amazon.com/Expanding-Your-Security-Horizons-Learning-ebook/dp/B0BRBX8RZ6?crid=16FNUXU6WC9QE&keywords=Expanding+security+horizons&qid=1703617573&sprefix=expanding+security+horizons,aps,413&sr=8-1&linkCode=sl1&tag=networkexpe08-20&linkId=c7587fe0fddba8dee23c33fc2c43ab8e&language=en_US&ref_=as_li_ss_tl)
+
+- [Tribe of Hackers: Cybersecurity Advice from the Best Hackers in the World](https://www.amazon.com/dp/1119643376)
 	
 ## AI
 
@@ -201,6 +225,8 @@ Recommended Reading - This contains a "live" list of recommended/curated books t
  - [ChatGPT for Cybersecurity Cookbook: Learn practical generative AI recipes to supercharge your cybersecurity skills](https://www.amazon.com/ChatGPT-Cybersecurity-Cookbook-generative-supercharge/dp/1805124048/ref=cm_cr_arp_d_product_top?ie=UTF8)
 
  - [Artificial Intelligence for Cybersecurity: Develop AI approaches to solve cybersecurity problems in your organization](https://packt.link/gSzXm)
+
+ - [AI Engineering: Building Applications with Foundation Models](https://www.amazon.com/dp/1098166302)
    
 ## Architecture
 
@@ -209,6 +235,8 @@ Recommended Reading - This contains a "live" list of recommended/curated books t
 - [Cybersecurity Architect's Handbook: A holistic approach to implementing and maintaining security architecture](https://www.amazon.com/dp/B0B68XXCV1)
 
 - [Practical Cybersecurity Architecture: A guide to creating and implementing robust designs for cybersecurity architects](https://www.amazon.com/Practical-Cybersecurity-Architecture-implementing-cybersecurity/dp/1838989927/ref=sr_1_2_sspa?crid=W859K4NEI7UQ&keywords=network+security+packt&qid=1685649033&s=books&sprefix=network+security+packt%2Cstripbooks%2C100&sr=1-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyRjIxNVNVUUxXWFFTJmVuY3J5cHRlZElkPUEwMjMwODkzMUJQRVJNVVc1MlYySiZlbmNyeXB0ZWRBZElkPUEwMzYzOTY4M1RIOUQ5WjY1TktNSSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
+
+- [Hands-On Cybersecurity for Architects: Plan and design robust security architectures](https://www.amazon.com/dp/1788830261)
 	
 ## Basics
 	
@@ -239,6 +267,8 @@ Recommended Reading - This contains a "live" list of recommended/curated books t
 - [Security Engineering: A Guide to Building Dependable Distributed Systems 3rd Edition](https://www.amazon.com/dp/1119642787?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 
 - [Endpoint Detection and Response Essentials: Explore the landscape of hacking, defense, and deployment in EDR](https://www.amazon.com/Endpoint-Detection-Response-Essentials-deployment/dp/1835463266/ref=sr_1_3_sspa?crid=1ZA2I0M1NB3AG&dib=eyJ2IjoiMSJ9.NMCxgdrP9Kiz-d_RQocSu0k5F2EJDvBo9m1NBgIEMdPGjHj071QN20LucGBJIEps.EFl17euXF5ysKBsvqmnIu-EaLzrSAn3jVOCO_mHrnyg&dib_tag=se&keywords=endpoint+detection+and+response+essentials&qid=1729803102&sprefix=endpoint+%2Caps%2C127&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
+
+- [Serious Cryptography, 2nd Edition: A Practical Introduction to Modern Encryption](https://www.amazon.com/dp/1718503849)
 	
 ## Bug Bounty
 	
@@ -248,9 +278,9 @@ Recommended Reading - This contains a "live" list of recommended/curated books t
 	
 - [The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470?crid=3HJABHERWDTD1&keywords=web+application+hackers+handbook&qid=1703614168&sprefix=web+appli,aps,373&sr=8-1&linkCode=sl1&tag=networkexpe08-20&linkId=444b656826660e0cb536da28ca2bec8f&language=en_US&ref_=as_li_ss_tl)
 	
-- [The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470?crid=3HJABHERWDTD1&keywords=web+application+hackers+handbook&qid=1703614168&sprefix=web+appli,aps,373&sr=8-1&linkCode=sl1&tag=networkexpe08-20&linkId=444b656826660e0cb536da28ca2bec8f&language=en_US&ref_=as_li_ss_tl)
-	
 - [Hands-On Application Penetration Testing with Burp Suite: Use Burp Suite and its features to inspect, detect, and exploit security vulnerabilities in your web applications](https://www.amazon.com/Hands-Application-Penetration-Testing-Suite/dp/178899406X/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1691332217&sr=8-5)
+
+- [Bug Bounty Hunting Essentials: Quick-paced guide to help white-hat hackers get through bug bounty programs](https://www.amazon.com/dp/1788626893)
 	
 - [zseano's methodology - Identifying security vulnerabilities in web applications](https://www.bugbountyhunter.com/methodology/zseanos-methodology.pdf)
 	
@@ -276,10 +306,6 @@ Recommended Reading - This contains a "live" list of recommended/curated books t
 	
 - [How to Hack Like a Legend: Breaking Windows](https://www.amazon.com/Hack-Like-Legend-Sparc-Flow/dp/1718501501/ref=sr_1_1?crid=3DBAJJ81OTK3Q&keywords=how+to+hack+like+a+legend&qid=1704129303&sprefix=how+to+hack+like+a+legen%2Caps%2C171&sr=8-1)
 	
-- [Ethical Hacking: A Hands-on Introduction to Breaking In](https://www.amazon.com/Ethical-Hacking-Hands-Introduction-Breaking/dp/1718501870/ref=sr_1_2?crid=2QUJL3KXU8Q4V&keywords=ethical+hacking&qid=1704129276&sprefix=ethical+hacking%2Caps%2C174&sr=8-2)
-	
-- [How to Hack Like a Legend: Breaking Windows](https://www.amazon.com/Hack-Like-Legend-Sparc-Flow/dp/1718501501/ref=sr_1_1?crid=3DBAJJ81OTK3Q&keywords=how+to+hack+like+a+legend&qid=1704129303&sprefix=how+to+hack+like+a+legen%2Caps%2C171&sr=8-1)
-	
 - [RTFM: Red Team Field Manual v2](https://www.amazon.com/RTFM-Red-Team-Field-Manual/dp/1075091837?crid=3E2AI9ASL2XHK&keywords=red+team+field+manual&qid=1703614781&sprefix=red+team+field+m,aps,494&sr=8-1&linkCode=sl1&tag=networkexpe08-20&linkId=11c32254f3c8bcda2dd4bea9da15d8e3&language=en_US&ref_=as_li_ss_tl)
 	
 - [Red Team Development and Operations: A practical guide](https://www.amazon.com/Red-Team-Development-Operations-practical/dp/B083XVG633?crid=30FV1AMPJWBUY&keywords=red+team+development+and+operations&qid=1703614836&sprefix=red+team+development+and+operations,aps,427&sr=8-1&linkCode=sl1&tag=networkexpe08-20&linkId=435839979b0d547b680682ce19afefe4&language=en_US&ref_=as_li_ss_tl)
@@ -299,6 +325,8 @@ Recommended Reading - This contains a "live" list of recommended/curated books t
 - [Black Hat GraphQL: Attacking Next Generation APIs](https://www.amazon.com/Black-Hat-GraphQL-Attacking-Generation/dp/1718502842?crid=1FMOD1KR7RSD9&keywords=black+hat+graphql&qid=1703617175&sprefix=Black+hat+graph,aps,380&sr=8-1&linkCode=sl1&tag=networkexpe08-20&linkId=e1283fa01cd35e0a6be2c80081932c5e&language=en_US&ref_=as_li_ss_tl)
 
 - [Certified Ethical Hacker (CEH) v12 312-50 Exam Guide](https://www.amazon.com/gp/product/1801813094/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
+
+- [Penetration Testing: A Hands-On Introduction to Hacking](https://www.amazon.com/dp/1593275641)
 	
 ## SOC-DFIR
 	
@@ -315,6 +343,8 @@ Recommended Reading - This contains a "live" list of recommended/curated books t
 - [Digital Evidence and Computer Crime 2nd Edition](https://www.amazon.com/Digital-Evidence-Computer-Crime-Eoghan/dp/0121631044/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1691353733&sr=8-4)
 	
 - [Digital Crime And Forensic Science in Cyberspace](https://www.amazon.com/Digital-Crime-Forensic-Science-Cyberspace/dp/1591408733/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
+
+- [The Art of Memory Forensics: Detecting Malware and Threats in Windows, Linux, and Mac Memory](https://www.amazon.com/dp/1118825098)
 	
 
 
