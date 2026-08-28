@@ -42,6 +42,10 @@ Amazon availability and formats can change. New Amazon links use canonical produ
 
 - [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://www.amazon.com/dp/1942788819)
 
+- [Wiring the Winning Organization](https://www.amazon.com/dp/1950508420)
+
+- [Industrial DevOps: Build Better Systems Faster](https://www.amazon.com/dp/B0BTRYJXQQ)
+
 # Networking:
 
 - [IP SUBNETTING FOR BEGINNERS: NOVICE TO PRO GUIDE TO UNDERSTANDING SUBNETTING WITH STEP BY STEP GUIDE AND DIAGRAMS](https://www.amazon.com/IP-SUBNETTING-BEGINNERS-UNDERSTANDING-DIAGRAMS/dp/1674590288/ref=sr_1_1?crid=4B36MCZ0KV9W&keywords=ip+subnetting+for+beginners&qid=1685649247&s=books&sprefix=ip+subnetting+for+beginners%2Cstripbooks%2C91&sr=1-1sim)
@@ -57,6 +61,12 @@ Amazon availability and formats can change. New Amazon links use canonical produ
 - [Learn Wireshark: A definitive guide to expertly analyzing protocols and troubleshooting networks using Wireshark, 2nd Edition](https://a.co/d/dFzYBgl)
 
 - [Practical Packet Analysis, 3rd Edition: Using Wireshark to Solve Real-World Network Problems](https://www.amazon.com/dp/1593278020)
+
+- [Network Programmability and Automation, 2nd Edition](https://www.amazon.com/dp/1098110838)
+
+- [Industrial Network Security, 3rd Edition](https://www.amazon.com/dp/0443137374)
+
+- [Hands-On Cisco Automation with Python](https://www.amazon.com/dp/013546319X)
 
 # Operating Systems:
 
@@ -96,6 +106,10 @@ Amazon availability and formats can change. New Amazon links use canonical produ
 
 - [How Linux Works, 3rd Edition: What Every Superuser Should Know](https://www.amazon.com/dp/1718500408)
 
+- [Linux: The Comprehensive Guide](https://www.amazon.com/dp/1493224999)
+
+- [Linux Basics for Hackers, 2nd Edition](https://www.amazon.com/dp/1718503547)
+
 ## Windows
 
 - [Mastering Windows Server 2022: Comprehensive administration of your Windows Server environment, 4th Edition](https://www.amazon.com/Mastering-Windows-Server-2022-administration/dp/1837634505/ref=sr_1_15?crid=2QH1WANPVG023&keywords=packt+windows+server&qid=1685648773&s=books&sprefix=packt+windows+server%2Cstripbooks%2C90&sr=1-15)
@@ -110,6 +124,10 @@ Amazon availability and formats can change. New Amazon links use canonical produ
 
 - [Windows Internals, Part 1, 7th Edition: System architecture, processes, threads, memory management, and more](https://www.amazon.com/dp/0735684189)
 
+- [Windows Server 2025 Administration Fundamentals](https://www.amazon.com/dp/1836205015)
+
+- [Mastering Windows Server 2025](https://www.amazon.com/dp/1837029911)
+
 # Development:
 
 ## Bash
@@ -121,24 +139,36 @@ Amazon availability and formats can change. New Amazon links use canonical produ
 - [Mastering Linux Shell Scripting Second Edition: A practical guide to Linux command-line and shell scripting 2nd edition](https://www.amazon.com/gp/product/1788990552/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
 
 - [bash Cookbook, 2nd Edition: Solutions and Examples for bash Users](https://www.amazon.com/dp/1491975334)
-	
+
+- [The Ultimate Linux Shell Scripting Guide](https://www.amazon.com/dp/1835463576)
+
+- [Linux Shell Scripting for Hackers](https://www.amazon.com/dp/1835462197)
+
 ## Go
 	
 - [Black Hat Go: Go Programming for Hackers and Pentesters](https://www.amazon.com/Black-Hat-Go-Programming-Pentesters/dp/1593278659?crid=2GWT4BZK23QLK&keywords=black+hat+go&qid=1703617340&sprefix=black+hat+go,aps,372&sr=8-1&linkCode=sl1&tag=networkexpe08-20&linkId=0bce7cc77588ad03d16ace39ed1ae98c&language=en_US&ref_=as_li_ss_tl)
 
 - [Learning Go, 2nd Edition: An Idiomatic Approach to Real-World Go Programming](https://www.amazon.com/dp/1098139291)
-	
+
+- [Learn Concurrent Programming with Go](https://www.amazon.com/dp/1633438384)
+
+- [Cloud Native Go, 2nd Edition](https://www.amazon.com/dp/1098156420)
+
 ## Perl
 	
 - [Perl Scripting for Windows Security: Live Response, Forensic Analysis, and Monitoring 1st Edition](https://www.amazon.com/Perl-Scripting-Windows-Security-Monitoring/dp/159749173X)
 
 - [Learning Perl, 8th Edition: Making Easy Things Easy and Hard Things Possible](https://www.amazon.com/dp/1492094951)
-	
+
+- [Design Patterns in Modern Perl](https://www.amazon.com/dp/1739393473)
+
 ## Powershell
 	
 - [Mastering PowerShell Scripting - Fifth Edition: Automate repetitive tasks and simplify complex administrative tasks using PowerShell](https://www.amazon.com/Mastering-PowerShell-Scripting-repetitive-administrative-dp-1805120271/dp/1805120271/ref=dp_ob_title_bk)
 
 - [PowerShell Cookbook, 4th Edition: Your Complete Guide to Scripting the Ubiquitous Object-Based Shell](https://www.amazon.com/dp/109810160X)
+
+- [PowerShell Automation and Scripting for Cybersecurity](https://www.amazon.com/dp/1800566379)
 
 ## Python
 	
@@ -189,7 +219,13 @@ Amazon availability and formats can change. New Amazon links use canonical produ
 - [Python GUI Programming with Tkinter: Design and build functional and user-friendly GUI applications](https://www.amazon.com/Python-GUI-Programming-Tkinter-user-friendly/dp/1801815925/ref=sr_1_1?crid=26B7PBIQP0M3&keywords=Python+GUI+programming+with+Tkinter&qid=1704908492&sprefix=python+gui+programming+with+tkinter+%2Caps%2C102&sr=8-1)
 
 - [Fluent Python, 2nd Edition: Clear, Concise, and Effective Programming](https://www.amazon.com/dp/1492056359)
-	
+
+- [Learning Python, 6th Edition](https://www.amazon.com/dp/1098171306)
+
+- [Effective Python, 3rd Edition](https://www.amazon.com/dp/0138172188)
+
+- [High Performance Python, 3rd Edition](https://www.amazon.com/dp/1098165969)
+
 ## Misc
 	
 - [Threat Modeling: Designing for Security](https://www.amazon.com/Threat-Modeling-Designing-Adam-Shostack/dp/1118809998/ref=sr_1_3?crid=99FZJMHIJ9VF&keywords=threat+modeling&qid=1691331850&sprefix=threat+modeling%2Caps%2C98&sr=8-3)
@@ -197,6 +233,10 @@ Amazon availability and formats can change. New Amazon links use canonical produ
 - [Container Security: Fundamental Technology Concepts that Protect Containerized Applications](https://www.amazon.com/Container-Security-Fundamental-Containerized-Applications/dp/1492056707/ref=sr_1_3?crid=EA7H29QYX2DU&keywords=container+security&qid=1691332034&sprefix=container+sec%2Caps%2C100&sr=8-3)
 
 - [Designing Data-Intensive Applications, 2nd Edition: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com/dp/1098119061)
+
+- [Kubernetes Security and Observability](https://www.amazon.com/dp/1098107101)
+
+- [Cloud Native Security](https://www.amazon.com/dp/1119782236)
 
 # Security:
 
@@ -211,7 +251,9 @@ Amazon availability and formats can change. New Amazon links use canonical produ
 - [Expanding Your Security Horizons: Learning The Ropes 102](https://www.amazon.com/Expanding-Your-Security-Horizons-Learning-ebook/dp/B0BRBX8RZ6?crid=16FNUXU6WC9QE&keywords=Expanding+security+horizons&qid=1703617573&sprefix=expanding+security+horizons,aps,413&sr=8-1&linkCode=sl1&tag=networkexpe08-20&linkId=c7587fe0fddba8dee23c33fc2c43ab8e&language=en_US&ref_=as_li_ss_tl)
 
 - [Tribe of Hackers: Cybersecurity Advice from the Best Hackers in the World](https://www.amazon.com/dp/1119643376)
-	
+
+- [Building a Career in Cybersecurity](https://www.amazon.com/dp/0138214514)
+
 ## AI
 
  - [Agentic Coding with Claude Code: The everyday developer's guide to agentic coding with Claude Code](https://www.amazon.com/dp/1806022591?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_2)
@@ -227,7 +269,13 @@ Amazon availability and formats can change. New Amazon links use canonical produ
  - [Artificial Intelligence for Cybersecurity: Develop AI approaches to solve cybersecurity problems in your organization](https://packt.link/gSzXm)
 
  - [AI Engineering: Building Applications with Foundation Models](https://www.amazon.com/dp/1098166302)
-   
+
+- [AI-Powered Digital Cyber Resilience](https://www.amazon.com/dp/B0FTV6SJFK)
+
+- [AI Security Engineering: Design, Build, and Secure Dependable AI Systems](https://www.amazon.com/dp/1394387687)
+
+- [Practical AI Security: A Hands-on Guide to Attacking, Defending, and Securing Modern AI Systems](https://www.amazon.com/dp/1718504667)
+
 ## Architecture
 
 - [Cybersecurity Architect's Handbook: An architect's guide to designing, building, and defending the modern enterprise Second Edition](https://www.amazon.com/Cybersecurity-Architects-Handbook-architects-enterprise/dp/180610539X/ref=tmm_pap_swatch_0)
@@ -237,7 +285,13 @@ Amazon availability and formats can change. New Amazon links use canonical produ
 - [Practical Cybersecurity Architecture: A guide to creating and implementing robust designs for cybersecurity architects](https://www.amazon.com/Practical-Cybersecurity-Architecture-implementing-cybersecurity/dp/1838989927/ref=sr_1_2_sspa?crid=W859K4NEI7UQ&keywords=network+security+packt&qid=1685649033&s=books&sprefix=network+security+packt%2Cstripbooks%2C100&sr=1-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyRjIxNVNVUUxXWFFTJmVuY3J5cHRlZElkPUEwMjMwODkzMUJQRVJNVVc1MlYySiZlbmNyeXB0ZWRBZElkPUEwMzYzOTY4M1RIOUQ5WjY1TktNSSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
 
 - [Hands-On Cybersecurity for Architects: Plan and design robust security architectures](https://www.amazon.com/dp/1788830261)
-	
+
+- [Zero Trust Done Right: A Practitioner’s Guide to Zero Trust Security in the Age of AI](https://www.amazon.com/dp/B0GQKCN4TN)
+
+- [Zero Trust Networks, 2nd Edition](https://www.amazon.com/dp/B0D4MM2DH8)
+
+- [Cloud Native Data Security with OAuth](https://www.amazon.com/dp/1098164881)
+
 ## Basics
 	
 - [Applied Cryptography: Protocols, Algorithms and Source Code in C](https://www.amazon.com/Applied-Cryptography-Protocols-Algorithms-Source/dp/1119096723/ref=sr_1_1?crid=3Q2FZ02LZWYA7&dib=eyJ2IjoiMSJ9.Mikrz8451MnAeTgeIQPSJftfZXoJXtXgUvp2VhZmMvAQbUjnO94ifXId4KqakvKYQttB7xturDAKGhkDW9EolQ1g3j6WoOGURo-f2JiZ_uvJtH-7eUdAPbERDXtuLavxEbUPZR1VfPzaK21BlYqHquxWtsJQBVqPmJbLiLSXWR98Fb_lGy9LziTI8-ePbvhgiD-Q7-teKCaUioPmFVFs7f2NjQTqZejyIsBjU2XQ9fU.at7vXqyoVUSTVYKuypBM05vXdcZasQE4EfSwhLUXnLA&dib_tag=se&keywords=applied+cryptography&qid=1725454362&sprefix=applied+crypt%2Caps%2C92&sr=8-1)
@@ -269,7 +323,9 @@ Amazon availability and formats can change. New Amazon links use canonical produ
 - [Endpoint Detection and Response Essentials: Explore the landscape of hacking, defense, and deployment in EDR](https://www.amazon.com/Endpoint-Detection-Response-Essentials-deployment/dp/1835463266/ref=sr_1_3_sspa?crid=1ZA2I0M1NB3AG&dib=eyJ2IjoiMSJ9.NMCxgdrP9Kiz-d_RQocSu0k5F2EJDvBo9m1NBgIEMdPGjHj071QN20LucGBJIEps.EFl17euXF5ysKBsvqmnIu-EaLzrSAn3jVOCO_mHrnyg&dib_tag=se&keywords=endpoint+detection+and+response+essentials&qid=1729803102&sprefix=endpoint+%2Caps%2C127&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
 
 - [Serious Cryptography, 2nd Edition: A Practical Introduction to Modern Encryption](https://www.amazon.com/dp/1718503849)
-	
+
+- [Cybersecurity First Principles: A Reboot of Strategy and Tactics](https://www.amazon.com/dp/1394173083)
+
 ## Bug Bounty
 	
 - [Bug Bounty Bootcamp: The Guide to Finding and Reporting Web Vulnerabilities](https://www.amazon.com/Bug-Bounty-Bootcamp-Reporting-Vulnerabilities/dp/1718501544?crid=14M2RBOPW2S64&keywords=bug+bounty+bootcamp&qid=1703614652&sprefix=bug+bounty+boot,aps,385&sr=8-1&linkCode=sl1&tag=networkexpe08-20&linkId=5edb048a52f3e34b6c1404033fe7319f&language=en_US&ref_=as_li_ss_tl)
@@ -283,7 +339,9 @@ Amazon availability and formats can change. New Amazon links use canonical produ
 - [Bug Bounty Hunting Essentials: Quick-paced guide to help white-hat hackers get through bug bounty programs](https://www.amazon.com/dp/1788626893)
 	
 - [zseano's methodology - Identifying security vulnerabilities in web applications](https://www.bugbountyhunter.com/methodology/zseanos-methodology.pdf)
-	
+
+- [Web Application Security, 2nd Edition: Exploitation and Countermeasures for Modern Web Applications](https://www.amazon.com/dp/1098143930)
+
 ## Ethical Hacking
 	
 - [Reconnaissance for Ethical Hackers: Focus on the starting point of data breaches and explore essential steps for successful pentesting](https://www.amazon.com/Reconnaissance-Ethical-Hackers-successful-pentesting/dp/1837630631/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1691331359&sr=8-1)
@@ -327,7 +385,9 @@ Amazon availability and formats can change. New Amazon links use canonical produ
 - [Certified Ethical Hacker (CEH) v12 312-50 Exam Guide](https://www.amazon.com/gp/product/1801813094/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
 
 - [Penetration Testing: A Hands-On Introduction to Hacking](https://www.amazon.com/dp/1593275641)
-	
+
+- [Ethical Hacking: A Hands-On Guide to Pentesting, Red Teaming, Security Frameworks, and Building Your Own Hacking Lab](https://www.amazon.com/dp/1493228420)
+
 ## SOC-DFIR
 	
 - [Advanced Cyber Threat Intelligence and Hunting: Detect APTs and zero-day attacks using CTI, behavioral analytics, and AI techniques](https://www.amazon.com/dp/1806380390?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_6)
@@ -345,10 +405,10 @@ Amazon availability and formats can change. New Amazon links use canonical produ
 - [Digital Crime And Forensic Science in Cyberspace](https://www.amazon.com/Digital-Crime-Forensic-Science-Cyberspace/dp/1591408733/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
 
 - [The Art of Memory Forensics: Detecting Malware and Threats in Windows, Linux, and Mac Memory](https://www.amazon.com/dp/1118825098)
-	
 
+- [Blue Team Handbook: Incident Response, 3rd Edition](https://www.amazon.com/dp/B0G5FP421K)
 
-
+- [Incident Response for Windows](https://www.amazon.com/dp/1804619329)
 
 ## License
 
